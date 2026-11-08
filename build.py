@@ -375,6 +375,9 @@ def build():
 
     (OUT / "robots.txt").write_text(
         f"User-agent: *\nAllow: /\n\nSitemap: {BASE}/sitemap.xml\nSitemap: {BASE}/news-sitemap.xml\n", encoding="utf-8")
+    if CONFIG.get("indexnow_key"):  # fichier de clé IndexNow (Bing, Yandex, etc.)
+        k = CONFIG["indexnow_key"]
+        (OUT / f"{k}.txt").write_text(k, encoding="utf-8")
     (OUT / "CNAME").write_text(CONFIG["domain"] + "\n", encoding="utf-8")
     (OUT / ".nojekyll").write_text("", encoding="utf-8")
 

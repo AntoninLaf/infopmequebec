@@ -40,6 +40,7 @@ Pas de section Sources ni d'avertissement dans le corps : le gabarit les ajoute.
 6. **Vérification obligatoire** : rouvre chaque source et compare chaque montant, date, critère et nom. Ce qui ne peut pas être confirmé est retiré.
 7. `python3 build.py` doit réussir.
 8. Commit (message clair en français) et push sur `main`.
+8b. **IndexNow** (indexation rapide sur Bing, qui alimente ChatGPT et Copilot) : environ 2 minutes après le push, pour chaque URL publiée ou mise à jour, appelle avec WebFetch `https://api.indexnow.org/indexnow?url=<URL complète>&key=<indexnow_key de site.yml>`. Le shell ne peut pas joindre ce service : utilise WebFetch. Une réponse 200 ou 202 = reçu. En cas d'échec, note-le dans le LOG sans bloquer la routine.
 9. Ajoute une entrée à `editorial/LOG.md` (date, articles publiés avec URL et source, articles mis à jour, sources vérifiées, notes). Mets à jour `editorial/SOURCES.md` (date de dernière vérification) et `editorial/PLAN.md` si utile. Commit + push.
 
 ## Règles absolues
@@ -56,6 +57,15 @@ Pas de section Sources ni d'avertissement dans le corps : le gabarit les ajoute.
 - Le gabarit génère automatiquement : schéma NewsArticle + BreadcrumbList, sitemap, sitemap news (articles de moins de 2 jours), RSS, canonical, calendrier des dates limites.
 - Liens internes : dans le corps, renvoie vers 1-3 articles existants pertinents quand c'est naturel (liens relatifs `/slug/`).
 - Pages piliers : quand une catégorie atteint ~5 articles, crée dans `content/pages/` un guide de référence (ex. « Subventions numériques pour PME au Québec ») et mets-le à jour chaque mois.
+
+## Stratégie de trafic (12 mois)
+1. **Mois 0-3, fondation** : être le premier et le plus complet sur les nouvelles de programmes liées à une date limite (« [programme] 2027 date limite », « admissibilité »). Mettre à jour les articles quand les programmes changent.
+2. **Mois 2-6, couche de référence** : une page approfondie et tenue à jour par grand programme (ESSOR, Emplois d'été Canada, PAUPME, IRIA/DEC, DÉPART, CDAEIA, subventions salariales…), et des guides piliers dès qu'une catégorie atteint environ 5 articles (« Subventions numériques pour PME au Québec », « Subventions salariales au Québec », « Calendrier des subventions 2027 »). De la vraie profondeur seulement : jamais de pages minces en variantes (pas de « subvention + ville »).
+3. **Moteurs de réponse IA** : faits, dates et montants dans des sections claires et structurées (le bloc « À retenir », des sous-titres-questions, des tableaux simples quand il y a plusieurs volets), pour être cité par ChatGPT, Perplexity, Copilot et les aperçus IA de Google. IndexNow à chaque publication.
+4. **Google Discover** : titres forts et précis (programme + information clé + date), jamais racoleurs ni trompeurs.
+5. **Autorité** : le calendrier des dates limites est la ressource à faire citer (CDE des MRC, chambres de commerce, cabinets comptables, associations de PME). La sollicitation demande qu'Antonin envoie les courriels : rédige-les dans `editorial/OUTREACH.md` quand le site compte une dizaine d'articles; ne l'avise qu'une fois les brouillons prêts, dans le rapport mensuel.
+6. **Plus tard, avec Antonin** (vers 3 000 à 5 000 visites/mois) : infolettre hebdomadaire des dates limites, puis commandites ou publicité, et éventuellement un lien discret vers Acteur Social. Rien de tout ça sans son accord.
+Attentes réalistes : presque rien avant le mois 3-4; quelques centaines à quelques milliers de visites/mois au mois 6; plus de 10 000/mois au mois 12 si la publication reste régulière et exacte.
 
 ## Escalade (notification à Antonin)
 Seulement si un humain est nécessaire : paiement, accès à un compte, demande de correction ou plainte d'un lecteur ou d'un organisme, échec du build ou de l'hébergement que tu ne peux pas régler, action manuelle de Google. Sinon, ne le dérange pas.
