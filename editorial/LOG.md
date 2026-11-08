@@ -1,0 +1,9 @@
+# Journal éditorial
+
+## 2026-11-08 — lancement
+- Site créé (générateur `build.py`, GitHub Pages, domaine infopmequebec.com).
+- Publié : /emplois-ete-canada-2027-date-limite/ — source : canada.ca (guide du demandeur EEC, modifié le 2026-10-27; page critères).
+  - Note : la page « qui peut présenter une demande » affichait encore les dates 2025 ; les critères (6-16 semaines, 30-40 h) y sont repris, les dates 2027 viennent du guide du demandeur.
+- Publié : /festivals-evenements-touristiques-2027-aide-financiere/ — sources : communiqué Québec.ca du 2026-11-04 + page du programme.
+- Pages : à propos, politique éditoriale, corrections.
+- À surveiller : l'adresse redaction@infopmequebec.com doit être redirigée vers Antonin (à confirmer).

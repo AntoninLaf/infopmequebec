@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://infopmequebec.com/sitemap.xml
+Sitemap: https://infopmequebec.com/news-sitemap.xml

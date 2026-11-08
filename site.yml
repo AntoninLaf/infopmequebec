@@ -1,0 +1,37 @@
+name: InfoPME Québec
+tagline: L'actualité des subventions et programmes d'aide pour les PME du Québec
+description: Nouvelles vérifiées sur les subventions, programmes d'aide, appels d'offres et dates limites pour les PME du Québec. Chaque article renvoie à la source officielle.
+intro: >-
+  Nouveaux programmes, dates limites, changements de règles : InfoPME Québec résume l'essentiel pour les
+  propriétaires de PME, en français clair, avec un lien vers la source officielle dans chaque article.
+url: https://infopmequebec.com
+domain: infopmequebec.com
+publisher: Acteur Social (Montréal)
+categories:
+  - slug: subventions
+    name: Subventions et aide financière
+    short: Subventions
+    nav: true
+    description: Les nouveaux programmes d'aide financière, subventions et prêts offerts aux PME du Québec par les gouvernements du Québec et du Canada et leurs organismes.
+  - slug: emploi
+    name: Main-d'œuvre et emploi
+    short: Emploi
+    nav: true
+    description: Subventions salariales, aide à l'embauche et à la formation pour les employeurs du Québec.
+  - slug: numerique
+    name: Transformation numérique
+    short: Numérique
+    nav: true
+    description: Aide financière pour les projets numériques, l'intelligence artificielle et l'automatisation des PME québécoises.
+  - slug: appels-offres
+    name: Appels d'offres
+    nav: false
+    description: Appels d'offres publics et marchés gouvernementaux accessibles aux PME du Québec.
+  - slug: fiscalite
+    name: Crédits d'impôt et fiscalité
+    nav: false
+    description: Crédits d'impôt et changements fiscaux qui touchent les PME du Québec.
+  - slug: regles
+    name: Règles et obligations
+    nav: false
+    description: Nouvelles règles, obligations et échéances réglementaires pour les entreprises du Québec.
