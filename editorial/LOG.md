@@ -12,4 +12,5 @@
 ## 2026-11-08 (soir) — préparation trafic
 - IndexNow ajouté : clé dans `site.yml` (`indexnow_key`), fichier de clé généré par `build.py` à la racine de `docs/`. Étape 8b ajoutée à la routine de CLAUDE.md.
 - Stratégie de trafic sur 12 mois ajoutée à CLAUDE.md (fondation, pages de référence par programme, moteurs IA, Discover, autorité, monétisation plus tard).
-- En attente d'Antonin : ajouter le site à Bing Webmaster Tools (import depuis Search Console).
+- Bing Webmaster Tools : site ajouté par Antonin (import depuis Search Console), 2026-11-08.
+- IndexNow testé avec WebFetch sur les 2 articles et /calendrier/ : requêtes acceptées (réponse vide, aucune erreur). Une réponse vide sans erreur = succès.
