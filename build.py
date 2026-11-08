@@ -62,33 +62,46 @@ def esc(s):
 
 
 CSS = """
-:root{--ink:#1b1f24;--muted:#5b6470;--line:#e3e6ea;--accent:#0b5cad;--accent-bg:#eef5fc;--warn:#9a3412;--warn-bg:#fff4ed}
+:root{--ink:#14171c;--muted:#5d6672;--line:#e2e5ea;--navy:#0f2a4a;--navy-2:#1d3d66;--gold:#b8892b;--gold-bg:#faf5ea;--paper:#fff}
 *{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
-body{margin:0;font:17px/1.65 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:var(--ink);background:#fff}
-a{color:var(--accent)}a:hover{text-decoration:none}
-.wrap{max-width:760px;margin:0 auto;padding:0 20px}
-header.site{border-bottom:1px solid var(--line)}
-header.site .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;padding-top:14px;padding-bottom:14px;flex-wrap:wrap}
-.brand{font-weight:800;font-size:20px;color:var(--ink);text-decoration:none;letter-spacing:-.01em}.brand span{color:var(--accent)}
-nav.main{display:flex;flex-wrap:wrap;gap:6px 18px}nav.main a{color:var(--muted);text-decoration:none;font-size:15px;white-space:nowrap}nav.main a:hover{color:var(--ink)}
-main{padding:28px 0 48px}
-h1{font-size:32px;line-height:1.2;letter-spacing:-.02em;margin:.2em 0 .4em}
-h2{font-size:23px;line-height:1.3;margin:1.8em 0 .5em}h3{font-size:19px;margin:1.5em 0 .4em}
+body{margin:0;font:17px/1.65 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:var(--ink);background:var(--paper)}
+a{color:var(--navy-2)}a:hover{color:var(--gold)}
+.serif,h1,h2,h3,.brand{font-family:Georgia,"Times New Roman",serif}
+.wrap{max-width:780px;margin:0 auto;padding:0 20px}
+.topbar{background:var(--navy);color:#cfd8e3;font-size:13px}.topbar .wrap{padding-top:6px;padding-bottom:6px;display:flex;justify-content:space-between;gap:12px}
+header.site{border-bottom:3px double var(--navy)}
+header.site .wrap{text-align:center;padding-top:22px;padding-bottom:0}
+.brand{display:inline-block;font-weight:700;font-size:38px;line-height:1;color:var(--navy);text-decoration:none;letter-spacing:-.02em}.brand span{color:var(--gold)}
+.tag{margin:6px 0 14px;color:var(--muted);font-size:14px;font-style:italic;font-family:Georgia,serif}
+nav.main{display:flex;justify-content:center;flex-wrap:wrap;gap:4px 26px;border-top:1px solid var(--line);padding:10px 0}
+nav.main a{color:var(--ink);text-decoration:none;font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;white-space:nowrap}nav.main a:hover{color:var(--gold)}
+main{padding:30px 0 48px}
+h1{font-size:34px;line-height:1.18;letter-spacing:-.01em;margin:.15em 0 .45em;color:var(--navy)}
+h2{font-size:24px;line-height:1.3;margin:1.8em 0 .5em;color:var(--navy)}h3{font-size:20px;margin:1.5em 0 .4em}
 .meta{color:var(--muted);font-size:14px}
-.kicker{display:inline-block;font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;color:var(--accent);text-decoration:none}
-.retenir{background:var(--accent-bg);border-left:4px solid var(--accent);padding:14px 18px;margin:22px 0;border-radius:4px}
+.kicker{display:inline-block;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--gold);text-decoration:none}
+.section-title{font-family:system-ui,sans-serif;font-size:13px;font-weight:800;text-transform:uppercase;letter-spacing:.1em;color:var(--navy);border-bottom:2px solid var(--navy);padding-bottom:6px;margin:0 0 4px}
+.retenir{background:var(--gold-bg);border-left:4px solid var(--gold);padding:14px 18px;margin:22px 0;border-radius:2px}
 .retenir h2{margin:0 0 6px;font-size:17px}.retenir ul{margin:0;padding-left:20px}
-.deadline{display:inline-block;background:var(--warn-bg);color:var(--warn);font-weight:700;font-size:14px;padding:3px 10px;border-radius:99px}
-table{border-collapse:collapse;width:100%;margin:16px 0;font-size:15px}th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}th{background:#f7f8fa}
+.deadline{display:inline-block;background:var(--navy);color:#fff;font-weight:700;font-size:13px;padding:2px 10px;border-radius:2px}
+table{border-collapse:collapse;width:100%;margin:16px 0;font-size:15px}th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}th{background:#f4f6f9;color:var(--navy)}
 .sources{border-top:1px solid var(--line);margin-top:36px;padding-top:16px;font-size:15px}
-.disclaimer{font-size:14px;color:var(--muted);background:#f7f8fa;padding:12px 16px;border-radius:4px}
+.disclaimer{font-size:14px;color:var(--muted);background:#f4f6f9;padding:12px 16px;border-radius:2px}
 ul.list{list-style:none;padding:0;margin:0}ul.list li{padding:18px 0;border-bottom:1px solid var(--line)}
-ul.list h2,ul.list h3{margin:4px 0 6px;font-size:20px}ul.list h2 a,ul.list h3 a{color:var(--ink);text-decoration:none}ul.list h2 a:hover,ul.list h3 a:hover{color:var(--accent)}
+ul.list h2,ul.list h3{margin:4px 0 6px;font-size:21px;line-height:1.3}ul.list h2 a,ul.list h3 a{color:var(--ink);text-decoration:none}ul.list h2 a:hover,ul.list h3 a:hover{color:var(--navy-2)}
 ul.list p{margin:0;color:var(--muted);font-size:15px}
+.dl{list-style:none;padding:0;margin:0 0 8px}
+.dl li{display:grid;grid-template-columns:74px 1fr;gap:16px;align-items:center;padding:14px 0;border-bottom:1px solid var(--line)}
+.dl .day{text-align:center;border:2px solid var(--navy);border-radius:2px;line-height:1.1;padding:6px 0}
+.dl .day b{display:block;font-family:Georgia,serif;font-size:28px;color:var(--navy)}.dl .day small{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.dl a.t{font-family:Georgia,serif;font-size:19px;font-weight:700;color:var(--ink);text-decoration:none;line-height:1.3}.dl a.t:hover{color:var(--navy-2)}
+.left{display:inline-block;margin-top:4px;font-size:13px;font-weight:700;color:var(--gold)}.left.soon{color:#b42318}
+.more{font-size:14px;font-weight:700;text-decoration:none}
+.lead{font-size:18px;color:#333}
 .cal td:first-child{white-space:nowrap;font-weight:600}
-footer.site{border-top:1px solid var(--line);color:var(--muted);font-size:14px;padding:24px 0 40px}
+footer.site{border-top:3px double var(--navy);color:var(--muted);font-size:14px;padding:24px 0 40px}
 footer.site a{color:var(--muted)}
-@media(max-width:560px){body{font-size:16px}h1{font-size:26px}}
+@media(max-width:560px){.topbar span:last-child{display:none}.lead{font-size:16px}.tag{display:none}body{font-size:16px}h1{font-size:27px}.brand{font-size:30px}.dl li{grid-template-columns:60px 1fr;gap:12px}.dl .day b{font-size:22px}}
 """
 
 
@@ -123,9 +136,11 @@ def layout(title, description, path, body, *, schema=None, og_type="website", no
 {schema_tag}
 </head>
 <body>
+<div class="topbar"><div class="wrap"><span>Subventions · Programmes d'aide · Dates limites</span><span>Sources officielles vérifiées</span></div></div>
 <header class="site"><div class="wrap">
 <a class="brand" href="/">InfoPME<span> Québec</span></a>
-<nav class="main">{cats}<a href="/calendrier/">Dates limites</a></nav>
+<p class="tag">{esc(CONFIG['tagline'])}</p>
+<nav class="main"><a href="/calendrier/">Dates limites</a>{cats}</nav>
 </div></header>
 <main><div class="wrap">
 {body}
@@ -277,18 +292,24 @@ def build():
     for a in arts:
         article_page(a, arts)
 
-    # Accueil
-    upcoming = sorted([a for a in arts if a.get("deadline") and a["deadline"] >= today], key=lambda a: a["deadline"])[:5]
-    up_html = ""
+    # Accueil : dates limites d'abord
+    MOIS_C = ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août", "sept.", "oct.", "nov.", "déc."]
+    upcoming = sorted([a for a in arts if a.get("deadline") and a["deadline"] >= today], key=lambda a: a["deadline"])[:6]
     if upcoming:
-        up_html = "<h2>Dates limites à venir</h2><table class=\"cal\"><tbody>" + "".join(
-            f'<tr><td>{fr_date(a["deadline"])}</td><td><a href="{a["path"]}">{esc(a["title"])}</a></td></tr>' for a in upcoming
-        ) + '</tbody></table><p><a href="/calendrier/">Toutes les dates limites →</a></p>'
-    home = f"""<h1>Subventions, programmes d'aide et appels d'offres pour les PME du Québec</h1>
-<p>{esc(CONFIG['intro'])}</p>
+        up_html = '<h2 class="section-title">Prochaines dates limites</h2><ul class="dl">' + "".join(
+            f'<li><div class="day"><b>{a["deadline"].day}</b><small>{MOIS_C[a["deadline"].month-1]}</small></div>'
+            f'<div><a class="t" href="{a["path"]}">{esc(a["title"])}</a><br>'
+            f'<span class="left" data-deadline="{a["deadline"]}"></span></div></li>' for a in upcoming
+        ) + '</ul><p><a class="more" href="/calendrier/">Voir tout le calendrier →</a></p>'
+    else:
+        up_html = '<p>Aucune date limite à venir pour le moment.</p>'
+    countdown = """<script>document.querySelectorAll('[data-deadline]').forEach(function(e){var d=new Date(e.dataset.deadline+'T23:59:00'),n=Math.ceil((d-new Date())/864e5);if(n<0){e.textContent='Terminé';return}e.textContent=n===0?'Dernier jour':n===1?'Il reste 1 jour':'Il reste '+n+' jours';if(n<=7)e.classList.add('soon')})</script>"""
+    home = f"""<h1 class="serif" style="font-size:26px;margin-top:0">Les subventions et programmes d'aide pour les PME du Québec, avant la date limite</h1>
+<p class="lead">{esc(CONFIG['intro'])}</p>
 {up_html}
-<h2>Dernières nouvelles</h2>
-{list_html(arts[:30], "h3")}"""
+<h2 class="section-title" style="margin-top:40px">Dernières nouvelles</h2>
+{list_html(arts[:30], "h3")}
+{countdown}"""
     home_schema = {"@context": "https://schema.org", "@graph": [
         {"@type": "WebSite", "name": CONFIG["name"], "url": BASE + "/", "inLanguage": "fr-CA"}, org_schema()]}
     write("/", layout(CONFIG["name"] + " — " + CONFIG["tagline"], CONFIG["description"], "/", home, schema=home_schema))
