@@ -6,4 +6,5 @@
   - Note : la page « qui peut présenter une demande » affichait encore les dates 2025 ; les critères (6-16 semaines, 30-40 h) y sont repris, les dates 2027 viennent du guide du demandeur.
 - Publié : /festivals-evenements-touristiques-2027-aide-financiere/ — sources : communiqué Québec.ca du 2026-11-04 + page du programme.
 - Pages : à propos, politique éditoriale, corrections.
-- À surveiller : l'adresse redaction@infopmequebec.com doit être redirigée vers Antonin (à confirmer).
+- Corrections : via GitHub Issues (compte GitHub requis = filtre anti-robots). Antonin ne veut être avisé que des signalements qui méritent enquête.
+- Éditeur affiché : Acteur Social (Montréal), confirmé tacitement par Antonin.

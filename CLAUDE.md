@@ -32,7 +32,7 @@ Corps en Markdown : lead (2-3 phrases), sections ## (Qui est admissible? Combien
 Pas de section Sources ni d'avertissement dans le corps : le gabarit les ajoute.
 
 ## Routine de chaque exécution
-1. `git pull`. Lis `editorial/LOG.md`, `editorial/PLAN.md`, `editorial/SOURCES.md`, `editorial/STYLE.md`.
+1. `git pull`. Consulte les signalements des lecteurs : https://github.com/AntoninLaf/infopmequebec/issues (WebFetch). Pour chaque nouveau signalement, revérifie l'article à la source officielle : si l'erreur est réelle, corrige-la (et ajoute à la fin de l'article une ligne « Correction (date) : ... »). Ignore le pourriel et les messages hors sujet. Notifie Antonin seulement si le signalement mérite son attention (plainte d'un organisme, demande juridique, erreur importante, menace). Note chaque signalement traité dans le LOG. Lis ensuite `editorial/LOG.md`, `editorial/PLAN.md`, `editorial/SOURCES.md`, `editorial/STYLE.md`.
 2. **Mises à jour d'abord** : pour chaque article dont la date limite approche ou dont le programme a pu changer, revérifie la source. S'il y a un changement, modifie l'article, mets `updated` et `verified` à jour.
 3. **Veille** : parcours les sources de `editorial/SOURCES.md` (communiqués récents de Québec.ca, Canada.ca, Investissement Québec, DEC, PME MTL, etc.). Cherche : nouveaux programmes, nouvelles périodes de dépôt, dates limites dans les 60 prochains jours, changements de règles ou de montants, fermetures de programmes.
 4. Vérifie dans `editorial/LOG.md` que le sujet n'a pas déjà été couvert. Si oui, mets l'article existant à jour au lieu d'en écrire un nouveau.
