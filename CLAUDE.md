@@ -62,3 +62,9 @@ Seulement si un humain est nécessaire : paiement, accès à un compte, demande 
 
 ## Rapport mensuel
 Au premier passage de chaque mois : bilan dans `editorial/RAPPORTS.md` (articles publiés, mises à jour, données Search Console si accessibles, ce qui fonctionne, ce que tu changes) et notification courte à Antonin avec les 3 points clés.
+
+## Design (décidé par Antonin, ne pas changer sans son accord)
+- Style « média d'affaires de confiance » : sobre, éditorial, titres à empattement (Georgia), marine (#0f2a4a) avec accent or (#b8892b).
+- L'accueil commence par les prochaines dates limites (compte à rebours), puis les dernières nouvelles.
+- Aucun appel à l'action pour l'instant : pas d'infolettre, pas de publicité, pas de promotion d'Acteur Social.
+- Aucune police web ni script lourd : le site doit rester très rapide.
