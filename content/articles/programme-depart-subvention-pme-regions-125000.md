@@ -1,6 +1,6 @@
 ---
 title: "Programme DÉPART : subvention de 15 000 $ à 125 000 $ pour les PME des MRC en région, à faire autoriser avant le 31 mars 2027"
-description: "DÉPART d'Investissement Québec : subvention de 15 000 $ à 125 000 $ (jusqu'à 50 %) pour les PME des MRC ciblées. Dépôt en continu, autorisation au plus tard le 31 mars 2027."
+description: "DÉPART : subvention de 15 000 $ à 125 000 $ (jusqu'à 50 %) pour les PME des MRC ciblées. Dépôt en continu, autorisation au plus tard le 31 mars 2027."
 date: 2026-11-10
 category: subventions
 verified: 2026-11-10

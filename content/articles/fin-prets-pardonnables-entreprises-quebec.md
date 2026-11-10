@@ -1,6 +1,6 @@
 ---
 title: "Québec met fin aux prêts pardonnables aux entreprises dès le 9 novembre 2026 : ce que les PME doivent savoir"
-description: "Depuis le 9 novembre 2026, Québec n'accorde plus de prêts pardonnables aux entreprises et révise ses outils d'aide. Ce qui change, ce qu'on ignore encore pour les PME."
+description: "Depuis le 9 novembre 2026, Québec n'accorde plus de prêts pardonnables aux entreprises et révise ses outils d'aide. Ce qui change pour les PME."
 date: 2026-11-10
 category: regles
 verified: 2026-11-10
