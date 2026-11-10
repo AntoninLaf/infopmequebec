@@ -14,7 +14,7 @@ Le site francophone le plus fiable et le plus rapide pour savoir quelles aides f
 1. ESSOR 1B/1C (numérique), dès que les montants et la date de fin sont confirmés à la source officielle.
 2. Suivi de la révision des aides aux entreprises (fin des prêts pardonnables, 9 nov. 2026) : mettre à jour l'article dès que des modalités officielles sont publiées.
 3. Productivité-Compétences (FDRCMO) : appels de projets (date limite à confirmer).
-5. Catégorie « subventions » : 4 articles; pilier « Subventions pour PME au Québec » à créer au 5e article.
+5. Catégorie « subventions » : 3 articles; pilier « Subventions pour PME au Québec » à créer vers 5 articles.
 4. Calendrier mensuel des dates limites.
 
 ## Fréquence
