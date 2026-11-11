@@ -40,7 +40,7 @@ Pas de section Sources ni d'avertissement dans le corps : le gabarit les ajoute.
 6. **Vérification obligatoire** : rouvre chaque source et compare chaque montant, date, critère et nom. Ce qui ne peut pas être confirmé est retiré.
 7. `python3 build.py` doit réussir.
 8. Commit (message clair en français) et push sur `main`.
-8b. **IndexNow** (indexation rapide sur Bing, qui alimente ChatGPT et Copilot) : environ 2 minutes après le push, pour chaque URL publiée ou mise à jour, appelle avec WebFetch `https://api.indexnow.org/indexnow?url=<URL complète>&key=<indexnow_key de site.yml>`. Le shell ne peut pas joindre ce service : utilise WebFetch. Une réponse 200 ou 202 = reçu. En cas d'échec, note-le dans le LOG sans bloquer la routine.
+8b. **IndexNow** (indexation rapide sur Bing, qui alimente ChatGPT et Copilot) : automatique. Le workflow GitHub `.github/workflows/indexnow.yml` envoie les URL des fichiers `content/` modifiés (plus l'accueil et /calendrier/ si un article change) environ 2 minutes après chaque push sur `main`. Ne pas appeler IndexNow à la main. Pour tout renvoyer : lancer le workflow manuellement (onglet Actions, « Run workflow »). Si le workflow échoue, le noter dans le LOG.
 9. Ajoute une entrée à `editorial/LOG.md` (date, articles publiés avec URL et source, articles mis à jour, sources vérifiées, notes). Mets à jour `editorial/SOURCES.md` (date de dernière vérification) et `editorial/PLAN.md` si utile. Commit + push.
 
 ## Règles absolues
