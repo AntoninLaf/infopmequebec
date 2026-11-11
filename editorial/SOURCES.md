@@ -13,6 +13,7 @@ Format : source — ce qu'on y cherche — dernière vérification
 - SEAO (seao.gouv.qc.ca) — appels d'offres publics — à faire
 
 ## Fédéral
+- Budget fédéral 2026 (budget.canada.ca) — mesures fiscales et programmes — 2026-11-11 (PDF lu p. 1-126, 194-204, 419-454)
 - Canada.ca, Emploi et Développement social — Emplois d'été Canada, Stratégie emploi et compétences jeunesse — 2026-11-08
 - Développement économique Canada pour les régions du Québec (DEC) — initiatives régionales (IA, tarifs) — 2026-11-09 (IRIA)
 - BDC, Exportation et développement Canada — programmes PME — à faire
@@ -31,3 +32,5 @@ Format : source — ce qu'on y cherche — dernière vérification
 - PAUPME – Tarifs douaniers — article 2026-11-09
 - DÉPART — article 2026-11-10
 - Fin des prêts pardonnables — article 2026-11-10
+- Budget fédéral 2026 (Mégadéduction, acomptes, tarifs) — article 2026-11-11
+- Programme Innovation Bois / FORET — vérifiés 2026-11-11, non couverts (fermé / très ciblé)

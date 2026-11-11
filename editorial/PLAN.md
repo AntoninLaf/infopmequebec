@@ -16,6 +16,8 @@ Le site francophone le plus fiable et le plus rapide pour savoir quelles aides f
 3. Productivité-Compétences (FDRCMO) : appels de projets (date limite à confirmer).
 5. Catégorie « subventions » : 3 articles; pilier « Subventions pour PME au Québec » à créer vers 5 articles.
 4. Calendrier mensuel des dates limites.
+6. Budget fédéral 2026 : lire p. 455-491 (impôt des sociétés, RS&DE taux PME) et le chapitre 6.1; mettre à jour l'article quand le projet de loi sur la Mégadéduction est déposé. Surveiller l'harmonisation québécoise.
+7. Catégorie « fiscalite » : 1 article.
 
 ## Fréquence
 1 à 3 articles par jour ouvrable quand il y a des nouvelles vérifiables. Mises à jour avant nouveaux articles.

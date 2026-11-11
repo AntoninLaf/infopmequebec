@@ -1,6 +1,6 @@
 ---
 title: "Budget fédéral 2026 : Mégadéduction à la productivité et autres mesures pour les PME"
-description: "Budget fédéral du 5 novembre 2026 : déduction immédiate des biens acquis depuis le 15 septembre 2026, acomptes provisionnels, aide tarifaire. Ce qui touche les PME."
+description: "Budget fédéral du 5 novembre 2026 : déduction immédiate des biens acquis depuis le 15 septembre 2026, acomptes provisionnels, aide tarifaire. Pour les PME."
 date: 2026-11-11
 category: fiscalite
 verified: 2026-11-11
