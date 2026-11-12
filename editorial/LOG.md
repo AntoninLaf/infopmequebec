@@ -46,3 +46,12 @@
 - Écarté : Programme Innovation Bois (appel volets 1A, 2, 3 fermé le 18 sept. 2026; volet 1B à l'hiver 2027 — à surveiller). FORET (MEIE/IQ, prêt max 5 M$, scieries de bois d'œuvre résineux jugées stratégiques, CA ≥ 5 M$, jusqu'au 31 mars 2027) : très ciblé, annoncé en juillet; possible article court plus tard.
 - IndexNow : ÉCHEC (3e exécution; PROVENANCE_REQUIRED via l'agent web-fetch). URL en attente : les 5 précédentes + /budget-federal-2026-pme-megadeduction-productivite/. À signaler à Antonin dans le rapport du 1er décembre.
 - IndexNow (avec Antonin, 2026-11-11) : remplacé par un workflow GitHub Actions (.github/workflows/indexnow.yml) déclenché à chaque push sur main touchant content/. Étape 8b de CLAUDE.md mise à jour. Arriéré envoyé : lancement manuel du workflow (toutes les URL du sitemap), exécution 43058194316 réussie.
+
+## 2026-11-12
+- Signalements (GitHub Issues) : aucun.
+- Mises à jour : /fin-prets-pardonnables-entreprises-quebec/ — le communiqué du 9 nov. 2026 est maintenant publié sur quebec.ca : source CNW du cabinet du ministre remplacée par la version quebec.ca (contenu identique : 88 prêts, plus de 2 G$, 1,1 G$ ou 57 %; toujours aucun programme nommé ni règle de transition). Lien interne vers l'IRRT ajouté. `updated`/`verified` 2026-11-12.
+- EEC 2027 (3 déc.) et festivals (2 déc.) : aucun changement repéré dans la veille; revérification complète à faire vers le 25 novembre.
+- Publié : /irrt-dec-reponse-tarifaire-pme-quebec-liquidites-2-millions/ — source : page IRRT de DEC (canada.ca, modifiée 2026-10-19), lue deux fois (FAQ sur la même page).
+  - Notes : demandes en continu, pas de champ `deadline` (31 mars 2028 = fin du soutien de liquidité; 31 mars 2029 = fin des projets). Total de 3,45 G$ cité par DEC = toutes les ADR du Canada : non repris. Hausse de 1,5 G$ du budget fédéral mentionnée avec lien vers l'article du budget.
+- Écarté : appel de projets d'innovation collaboratifs dans les secteurs stratégiques (MEIE) — date limite 1er avril 2026 passée, dépôt par les RSRI.
+- IndexNow : par le workflow GitHub Actions après le push.

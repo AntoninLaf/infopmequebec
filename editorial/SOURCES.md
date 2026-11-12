@@ -3,7 +3,7 @@
 Format : source — ce qu'on y cherche — dernière vérification
 
 ## Québec
-- Québec.ca, nouvelles (https://www.quebec.ca/nouvelles) — communiqués des ministères (Économie, Emploi, Tourisme, Finances) — 2026-11-10 (par recherche; page de liste non lisible). Les communiqués sont aussi diffusés sur newswire.ca (CNW), source acceptable quand l'émetteur est un cabinet ou un ministère
+- Québec.ca, nouvelles (https://www.quebec.ca/nouvelles) — communiqués des ministères (Économie, Emploi, Tourisme, Finances) — 2026-11-12 (par recherche; page de liste non lisible). Les communiqués sont aussi diffusés sur newswire.ca (CNW), source acceptable quand l'émetteur est un cabinet ou un ministère
 - Investissement Québec, produits financiers (https://www.investquebec.com) — ESSOR et autres programmes, guides de présentation — 2026-11-10 (guide DÉPART; pages HTML non lisibles)
 - Ministère de l'Économie, de l'Innovation et de l'Énergie, cadres normatifs (cdn-contenu.quebec.ca) — nouveaux cadres normatifs — 2026-11-10 (CN DÉPART 2026-2027)
 - Services Québec / Emploi-Québec — subventions salariales, formation — à faire
@@ -15,7 +15,7 @@ Format : source — ce qu'on y cherche — dernière vérification
 ## Fédéral
 - Budget fédéral 2026 (budget.canada.ca) — mesures fiscales et programmes — 2026-11-11 (PDF lu p. 1-126, 194-204, 419-454)
 - Canada.ca, Emploi et Développement social — Emplois d'été Canada, Stratégie emploi et compétences jeunesse — 2026-11-08
-- Développement économique Canada pour les régions du Québec (DEC) — initiatives régionales (IA, tarifs) — 2026-11-09 (IRIA)
+- Développement économique Canada pour les régions du Québec (DEC) — initiatives régionales (IA, tarifs) — 2026-11-12 (IRRT; IRIA le 2026-11-09)
 - BDC, Exportation et développement Canada — programmes PME — à faire
 
 ## Municipal et régional
@@ -33,4 +33,6 @@ Format : source — ce qu'on y cherche — dernière vérification
 - DÉPART — article 2026-11-10
 - Fin des prêts pardonnables — article 2026-11-10
 - Budget fédéral 2026 (Mégadéduction, acomptes, tarifs) — article 2026-11-11
+- IRRT (DEC, réponse tarifaire) — article 2026-11-12
+- Appel de projets d'innovation collaboratifs, secteurs stratégiques (MEIE) — vérifié 2026-11-12, fermé (1er avril 2026)
 - Programme Innovation Bois / FORET — vérifiés 2026-11-11, non couverts (fermé / très ciblé)

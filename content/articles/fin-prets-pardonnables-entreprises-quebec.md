@@ -3,15 +3,16 @@ title: "Québec met fin aux prêts pardonnables aux entreprises dès le 9 novemb
 description: "Depuis le 9 novembre 2026, Québec n'accorde plus de prêts pardonnables aux entreprises et révise ses outils d'aide. Ce qui change pour les PME."
 date: 2026-11-10
 category: regles
-verified: 2026-11-10
+updated: 2026-11-12
+verified: 2026-11-12
 retenir:
   - "Depuis le **9 novembre 2026**, le gouvernement du Québec **ne consent plus de prêts pardonnables** aux entreprises."
   - "Selon le gouvernement, **88 prêts** comportant une portion pardonnable ont été autorisés en 8 ans, pour **plus de 2 G$**, dont **1,1 G$ (57 %)** en portion pardonnable."
   - "Le ministre **analyse l'ensemble des outils d'aide aux entreprises**; les aides de l'État seront « mesurées, ciblées et stratégiques »."
   - "Le communiqué **ne nomme aucun programme** et ne précise pas le sort des demandes en cours ni des ententes déjà signées."
 sources:
-  - name: "Cabinet du ministre du Développement économique, de l'Innovation et de l'Énergie — Annonce de la fin des prêts pardonnables aux entreprises (communiqué du 9 novembre 2026)"
-    url: "https://www.newswire.ca/fr/news-releases/le-ministre-du-developpement-economique-de-l-innovation-et-de-l-energie-m-stephane-paquet-annonce-la-fin-des-prets-pardonnables-aux-entreprises-868641700.html"
+  - name: "Gouvernement du Québec — Le ministre du Développement économique, de l'Innovation et de l'Énergie annonce la fin des prêts pardonnables aux entreprises (communiqué du 9 novembre 2026)"
+    url: "https://www.quebec.ca/nouvelles/actualites/details/le-ministre-du-developpement-economique-de-linnovation-et-de-lenergie-m-stephane-paquet-annonce-la-fin-des-prets-pardonnables-aux-entreprises-72960"
   - name: "Cabinet du premier ministre — Québec met fin aux prêts pardonnables (communiqué du 9 novembre 2026)"
     url: "https://www.newswire.ca/fr/news-releases/quebec-met-fin-aux-prets-pardonnables-le-premier-ministre-salue-la-decision-du-ministre-stephane-paquet-884057759.html"
 ---
@@ -48,3 +49,5 @@ Le gouvernement affirme qu'il « entend néanmoins continuer de jouer pleinement
 **Les ententes signées sont à relire.** Les conditions de pardon prévues dans une convention déjà signée ne sont pas abordées dans le communiqué. Avant de modifier ses prévisions financières, l'entreprise a intérêt à faire valider sa situation par son comptable.
 
 **Les autres formes d'aide ne sont pas visées par l'annonce.** Les prêts ordinaires, comme le [PAUPME – Tarifs douaniers](/paupme-tarifs-douaniers-pret-150000-admissibilite/), et les subventions, comme le [programme DÉPART](/programme-depart-subvention-pme-regions-125000/), ne sont pas mentionnés. La révision annoncée de tous les outils d'aide pourrait toutefois entraîner d'autres changements : nous mettrons nos articles à jour dès que des modalités officielles seront publiées.
+
+Pour les entreprises touchées par les droits de douane, les aides fédérales comme l'[Initiative régionale de réponse tarifaire de DEC](/irrt-dec-reponse-tarifaire-pme-quebec-liquidites-2-millions/) ne sont pas visées par cette décision du gouvernement du Québec.
