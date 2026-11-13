@@ -55,3 +55,12 @@
   - Notes : demandes en continu, pas de champ `deadline` (31 mars 2028 = fin du soutien de liquidité; 31 mars 2029 = fin des projets). Total de 3,45 G$ cité par DEC = toutes les ADR du Canada : non repris. Hausse de 1,5 G$ du budget fédéral mentionnée avec lien vers l'article du budget.
 - Écarté : appel de projets d'innovation collaboratifs dans les secteurs stratégiques (MEIE) — date limite 1er avril 2026 passée, dépôt par les RSRI.
 - IndexNow : par le workflow GitHub Actions après le push.
+
+## 2026-11-13
+- Signalements (GitHub Issues) : aucun.
+- Mises à jour : aucune nécessaire (EEC 3 déc. et festivals 2 déc. : revérification complète prévue vers le 25 novembre; rien de nouveau repéré dans la veille pour PAUPME, IRIA, DÉPART, IRRT, prêts pardonnables).
+- Publié : /essor-diagnostic-numerique-plan-numerique-subvention-pme/ — sources : cadre normatif ESSOR 2025-2027 (MEIE, version 2.0 du 2 juillet 2026, décret 1026-2026, p. 3, 9-17) + guides de présentation IQ des sous-volets 1B et 1C (mars 2026).
+  - Vérification : cadre normatif relu une 2e fois, 13 énoncés confirmés mot à mot (montants 20 000 $ / 50 000 $ pour la durée du programme, taux 50 %, cumul 80 % / 50 %, PME ≤ 250 employés et CA ≥ 2,5 M$, échéance 31 mars 2027, 24 mois après le plan 1B, début ≤ 3 mois, durée ≤ 12 mois, apport privé 20 %, versements).
+  - Notes : la règle franchises/chaînes de plus de 5 établissements (25 000 $, 30 %) vise 1A et 1C, pas 1B. Les guides ne donnent ni taux ni montant (renvoient à la lettre d'offre) : chiffres tirés du cadre normatif seulement. Pas de champ `deadline` (31 mars 2027 = autorisation, pas dépôt). Page HTML ESSOR d'IQ non lue.
+- Écarté : soutien de 4,5 M$ à Les Produits du Québec (communiqué du 7 juillet 2026, aide à un organisme, rien à demander pour les PME).
+- Veille : flux de nouvelles DEC et EDSC (api.io.canada.ca) non lisibles (PROVENANCE_REQUIRED); veille faite par recherche web.
