@@ -64,3 +64,6 @@
   - Notes : la règle franchises/chaînes de plus de 5 établissements (25 000 $, 30 %) vise 1A et 1C, pas 1B. Les guides ne donnent ni taux ni montant (renvoient à la lettre d'offre) : chiffres tirés du cadre normatif seulement. Pas de champ `deadline` (31 mars 2027 = autorisation, pas dépôt). Page HTML ESSOR d'IQ non lue.
 - Écarté : soutien de 4,5 M$ à Les Produits du Québec (communiqué du 7 juillet 2026, aide à un organisme, rien à demander pour les PME).
 - Veille : flux de nouvelles DEC et EDSC (api.io.canada.ca) non lisibles (PROVENANCE_REQUIRED); veille faite par recherche web.
+
+## 2026-11-13 (soir) — identité visuelle
+- À la demande d'Antonin : drapeau du Québec (SVG en ligne) dans l'en-tête et nouvelle icône du site aux couleurs du Québec (fleur de lys blanche sur bleu #003da5). Fichiers dans `static/` (favicon.svg, favicon.ico, favicon-48.png, apple-touch-icon.png), copiés par `build.py`. Le reste du design (marine et or, Georgia) est inchangé.

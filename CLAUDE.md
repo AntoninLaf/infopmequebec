@@ -77,4 +77,5 @@ Au premier passage de chaque mois : bilan dans `editorial/RAPPORTS.md` (articles
 - Style « média d'affaires de confiance » : sobre, éditorial, titres à empattement (Georgia), marine (#0f2a4a) avec accent or (#b8892b).
 - L'accueil commence par les prochaines dates limites (compte à rebours), puis les dernières nouvelles.
 - Aucun appel à l'action pour l'instant : pas d'infolettre, pas de publicité, pas de promotion d'Acteur Social.
+- Drapeau du Québec (SVG en ligne, sans image) à gauche du titre dans l'en-tête, et icône du site (fleur de lys blanche sur bleu #003da5) : demandés par Antonin le 2026-11-13. Les fichiers d'icônes sont dans `static/`, copiés dans `docs/` par `build.py`.
 - Aucune police web ni script lourd : le site doit rester très rapide.
