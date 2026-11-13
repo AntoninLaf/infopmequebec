@@ -61,16 +61,8 @@ def esc(s):
     return html.escape(str(s), quote=True)
 
 
-FLAG = ('<svg class="flag" viewBox="0 0 90 60" aria-hidden="true" focusable="false">'
-        '<defs><g id="fl"><path d="M0-10C2.6-6.6 3.2-2.6 0 1.2C-3.2-2.6-2.6-6.6 0-10Z"/>'
-        '<path id="fs" d="M-1.3 .2C-3.2-4.6-8.6-4.6-9.2-.8C-9.7 2.4-6.2 4.2-3.6 2.8C-5.2 2.9-7 1.4-6.4-.4C-5.8-2.2-3.6-2.2-2.2 .6Z"/>'
-        '<path transform="scale(-1 1)" d="M-1.3 .2C-3.2-4.6-8.6-4.6-9.2-.8C-9.7 2.4-6.2 4.2-3.6 2.8C-5.2 2.9-7 1.4-6.4-.4C-5.8-2.2-3.6-2.2-2.2 .6Z"/>'
-        '<rect x="-5" y="2.3" width="10" height="1.8" rx=".6"/>'
-        '<path d="M-3.1 4.9C-1.6 5.6-.6 7 0 9C.6 7 1.6 5.6 3.1 4.9C1.6 4.7-1.6 4.7-3.1 4.9Z"/></g></defs>'
-        '<rect width="90" height="60" fill="#003da5"/>'
-        '<path d="M41 0h8v60h-8zM0 26h90v8H0z" fill="#fff"/>'
-        '<g fill="#fff"><use href="#fl" transform="translate(20.5 13.5) scale(1.1)"/><use href="#fl" transform="translate(69.5 13.5) scale(1.1)"/>'
-        '<use href="#fl" transform="translate(20.5 47.5) scale(1.1)"/><use href="#fl" transform="translate(69.5 47.5) scale(1.1)"/></g></svg>')
+FLAG = '<img class="flag" src="/drapeau-quebec.png" alt="" width="45" height="30">'
+FLAG_FOOT = '<img class="flag-f" src="/drapeau-quebec.png" alt="Drapeau du Québec" width="27" height="18" loading="lazy">'
 
 CSS = """
 :root{--ink:#14171c;--muted:#5d6672;--line:#e2e5ea;--navy:#0f2a4a;--navy-2:#1d3d66;--gold:#b8892b;--gold-bg:#faf5ea;--paper:#fff}
@@ -82,7 +74,7 @@ a{color:var(--navy-2)}a:hover{color:var(--gold)}
 .topbar{background:var(--navy);color:#cfd8e3;font-size:13px}.topbar .wrap{padding-top:6px;padding-bottom:6px;display:flex;justify-content:space-between;gap:12px}
 header.site{border-bottom:3px double var(--navy)}
 header.site .wrap{text-align:center;padding-top:22px;padding-bottom:0}
-.brand{display:inline-flex;align-items:center;gap:12px;font-weight:700;font-size:38px;line-height:1;color:var(--navy);text-decoration:none;letter-spacing:-.02em}.brand b{font-weight:inherit}.brand span{color:var(--gold)}.flag{height:.8em;width:auto;aspect-ratio:3/2;flex:none;box-shadow:0 0 0 1px rgba(15,42,74,.25)}
+.brand{display:inline-flex;align-items:center;gap:12px;font-weight:700;font-size:38px;line-height:1;color:var(--navy);text-decoration:none;letter-spacing:-.02em}.brand b{font-weight:inherit}.brand span{color:var(--gold)}.flag{height:.8em;width:auto;flex:none;box-shadow:0 0 0 1px rgba(15,42,74,.25)}.flag-f{height:18px;width:auto;vertical-align:-3px;margin-right:8px;box-shadow:0 0 0 1px rgba(15,42,74,.25)}
 .tag{margin:6px 0 14px;color:var(--muted);font-size:14px;font-style:italic;font-family:Georgia,serif}
 nav.main{display:flex;justify-content:center;flex-wrap:wrap;gap:4px 26px;border-top:1px solid var(--line);padding:10px 0}
 nav.main a{color:var(--ink);text-decoration:none;font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;white-space:nowrap}nav.main a:hover{color:var(--gold)}
@@ -160,7 +152,7 @@ def layout(title, description, path, body, *, schema=None, og_type="website", no
 {body}
 </div></main>
 <footer class="site"><div class="wrap">
-<p><strong>{esc(CONFIG['name'])}</strong> — {esc(CONFIG['tagline'])}</p>
+<p>{FLAG_FOOT}<strong>{esc(CONFIG['name'])}</strong> — {esc(CONFIG['tagline'])}</p>
 <p><a href="/a-propos/">À propos</a> · <a href="/politique-editoriale/">Politique éditoriale</a> · <a href="/corrections/">Corrections et contact</a> · <a href="/feed.xml">RSS</a></p>
 <p>Information générale seulement. Vérifiez toujours les conditions auprès de l'organisme responsable avant de déposer une demande.</p>
 </div></footer>

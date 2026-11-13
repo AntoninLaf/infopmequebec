@@ -67,3 +67,4 @@
 
 ## 2026-11-13 (soir) — identité visuelle
 - À la demande d'Antonin : drapeau du Québec (SVG en ligne) dans l'en-tête et nouvelle icône du site aux couleurs du Québec (fleur de lys blanche sur bleu #003da5). Fichiers dans `static/` (favicon.svg, favicon.ico, favicon-48.png, apple-touch-icon.png), copiés par `build.py`. Le reste du design (marine et or, Georgia) est inchangé.
+- Drapeau remplacé par l'image fournie par Antonin (plus fidèle), réduite à 180×120 (3 Ko); ajouté aussi dans le pied de page.
