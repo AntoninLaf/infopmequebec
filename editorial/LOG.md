@@ -68,3 +68,12 @@
 ## 2026-11-13 (soir) — identité visuelle
 - À la demande d'Antonin : drapeau du Québec (SVG en ligne) dans l'en-tête et nouvelle icône du site aux couleurs du Québec (fleur de lys blanche sur bleu #003da5). Fichiers dans `static/` (favicon.svg, favicon.ico, favicon-48.png, apple-touch-icon.png), copiés par `build.py`. Le reste du design (marine et or, Georgia) est inchangé.
 - Drapeau remplacé par l'image fournie par Antonin (plus fidèle), réduite à 180×120 (3 Ko); ajouté aussi dans le pied de page.
+
+## 2026-11-16
+- Signalements (GitHub Issues) : aucun.
+- Mises à jour : aucune nécessaire (EEC 3 déc. et festivals 2 déc. : revérification complète prévue vers le 25 novembre; rien de nouveau repéré dans la veille pour PAUPME, IRIA, DÉPART, IRRT, ESSOR 1B/1C, prêts pardonnables).
+- Publié : /essor-volet-2-projets-investissement-pme-pret-garantie/ — source : cadre normatif ESSOR 2025-2027 (MEIE, version 2.0 du 2 juillet 2026, décret 1026-2026, p. 8-9, 18-25, 29).
+  - Vérification : relecture indépendante du texte intégral de la section 4; 16 énoncés confirmés mot à mot. Corrigés avant publication : exceptions du secteur primaire (serre, exploitation forestière, conditionnement > 10 M$), exception hébergement (rattaché à un projet touristique), ajout de l'exclusion bois d'œuvre résineux (< 10 M$), ajout de la règle des 24 mois avant approbation, fonds de roulement d'opération exclu.
+  - Notes : le cadre mentionne encore le prêt pardonnable (formes d'aide) alors que le gouvernement en a annoncé la fin le 9 nov. : signalé dans l'analyse. Aucun seuil de taille ou de CA pour le volet 2. Mode de dépôt (IQ) non précisé faute de guide lu. Volets 4 et 5 non lus mot à mot.
+- Veille : rien de nouveau et vérifiable (recherches Québec.ca, DEC, CPMT). Productivité-Compétences : communiqué du 14 juillet 2026 (51 projets IA, 10 M$) déjà ancien; appels « Formation aux gestionnaires » et « Économie verte et transformation numérique » sans date confirmée (page CPMT non lisible). Le Devoir (article sur le faible recours aux programmes d'aide tarifaire d'août) et infobref (énoncé économique d'automne) non lisibles : pistes à confirmer à une source officielle.
+- Accès web : plusieurs pages refusées (PROVENANCE_REQUIRED) quand l'URL n'apparaît pas d'abord dans un résultat de recherche; astuce : faire d'abord une recherche web qui fait ressortir l'URL officielle, puis la lire.

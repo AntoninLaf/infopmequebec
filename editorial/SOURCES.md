@@ -3,9 +3,9 @@
 Format : source — ce qu'on y cherche — dernière vérification
 
 ## Québec
-- Québec.ca, nouvelles (https://www.quebec.ca/nouvelles) — communiqués des ministères (Économie, Emploi, Tourisme, Finances) — 2026-11-13 (par recherche; page de liste non lisible). Les communiqués sont aussi diffusés sur newswire.ca (CNW), source acceptable quand l'émetteur est un cabinet ou un ministère
+- Québec.ca, nouvelles (https://www.quebec.ca/nouvelles) — communiqués des ministères (Économie, Emploi, Tourisme, Finances) — 2026-11-16 (par recherche; page de liste non lisible). Les communiqués sont aussi diffusés sur newswire.ca (CNW), source acceptable quand l'émetteur est un cabinet ou un ministère
 - Investissement Québec, produits financiers (https://www.investquebec.com) — ESSOR et autres programmes, guides de présentation — 2026-11-13 (guides ESSOR 1B et 1C; pages HTML non lisibles)
-- Ministère de l'Économie, de l'Innovation et de l'Énergie, cadres normatifs (cdn-contenu.quebec.ca) — nouveaux cadres normatifs — 2026-11-13 (CN ESSOR 2025-2027 v2.0)
+- Ministère de l'Économie, de l'Innovation et de l'Énergie, cadres normatifs (cdn-contenu.quebec.ca) — nouveaux cadres normatifs — 2026-11-16 (CN ESSOR 2025-2027 v2.0, sections 1 à 5.3)
 - Services Québec / Emploi-Québec — subventions salariales, formation — à faire
 - CPMT (cpmt.gouv.qc.ca) — appels de projets Productivité-Compétences (FDRCMO) — 2026-11-10 (page non lisible; communiqués lus)
 - Revenu Québec, nouvelles — crédits d'impôt, échéances — à faire
@@ -25,10 +25,12 @@ Format : source — ce qu'on y cherche — dernière vérification
 ## Pistes repérées, non encore couvertes (à vérifier à la source officielle avant d'écrire)
 - Flux de nouvelles DEC/EDSC (api.io.canada.ca, format atom) : non lisibles le 2026-11-13 (PROVENANCE_REQUIRED).
 - Productivité-Compétences (FDRCMO) : appel « Formation aux gestionnaires » (10 M$, promoteurs collectifs, PME de moins de 100 employés) — date limite à confirmer sur cpmt.gouv.qc.ca; appel « Économie verte et transformation numérique » mentionné en juillet 2026.
+- Énoncé économique d'automne du gouvernement du Québec (mentionné par infobref, novembre 2026) : date à confirmer sur finances.gouv.qc.ca.
 - Révision des outils d'aide aux entreprises annoncée le 9 nov. 2026 (nouveau gouvernement) : surveiller les changements à ESSOR, PACTE, FDE.
 
 ## Couverts
-- ESSOR volet 1, sous-volets 1B et 1C (numérique) — article 2026-11-13 (cadre normatif v2.0; volets 2 à 5 non couverts)
+- ESSOR volet 1, sous-volets 1B et 1C (numérique) — article 2026-11-13 (cadre normatif v2.0)
+- ESSOR volet 2 (projets d'investissement) — article 2026-11-16 (volets 3 à 5 non couverts; volet 3 environnement lu en partie)
 - IRIA (DEC) — article 2026-11-09
 - PAUPME – Tarifs douaniers — article 2026-11-09
 - DÉPART — article 2026-11-10
