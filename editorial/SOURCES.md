@@ -3,7 +3,7 @@
 Format : source — ce qu'on y cherche — dernière vérification
 
 ## Québec
-- Québec.ca, nouvelles (https://www.quebec.ca/nouvelles) — communiqués des ministères (Économie, Emploi, Tourisme, Finances) — 2026-11-16 (par recherche; page de liste non lisible). Les communiqués sont aussi diffusés sur newswire.ca (CNW), source acceptable quand l'émetteur est un cabinet ou un ministère
+- Québec.ca, nouvelles (https://www.quebec.ca/nouvelles) — communiqués des ministères (Économie, Emploi, Tourisme, Finances) — 2026-11-17 (par recherche; page de liste non lisible). Les communiqués sont aussi diffusés sur newswire.ca (CNW), source acceptable quand l'émetteur est un cabinet ou un ministère
 - Investissement Québec, produits financiers (https://www.investquebec.com) — ESSOR et autres programmes, guides de présentation — 2026-11-13 (guides ESSOR 1B et 1C; pages HTML non lisibles)
 - Ministère de l'Économie, de l'Innovation et de l'Énergie, cadres normatifs (cdn-contenu.quebec.ca) — nouveaux cadres normatifs — 2026-11-16 (CN ESSOR 2025-2027 v2.0, sections 1 à 5.3)
 - Services Québec / Emploi-Québec — subventions salariales, formation — à faire
@@ -15,7 +15,7 @@ Format : source — ce qu'on y cherche — dernière vérification
 ## Fédéral
 - Budget fédéral 2026 (budget.canada.ca) — mesures fiscales et programmes — 2026-11-11 (PDF lu p. 1-126, 194-204, 419-454)
 - Canada.ca, Emploi et Développement social — Emplois d'été Canada, Stratégie emploi et compétences jeunesse — 2026-11-08
-- Développement économique Canada pour les régions du Québec (DEC) — initiatives régionales (IA, tarifs) — 2026-11-12 (IRRT; IRIA le 2026-11-09)
+- Développement économique Canada pour les régions du Québec (DEC) — initiatives régionales (IA, tarifs) — 2026-11-17 (recherche, rien de nouveau; IRRT 2026-11-12; IRIA 2026-11-09)
 - BDC, Exportation et développement Canada — programmes PME — à faire
 
 ## Municipal et régional

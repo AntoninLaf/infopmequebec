@@ -77,3 +77,10 @@
   - Notes : le cadre mentionne encore le prêt pardonnable (formes d'aide) alors que le gouvernement en a annoncé la fin le 9 nov. : signalé dans l'analyse. Aucun seuil de taille ou de CA pour le volet 2. Mode de dépôt (IQ) non précisé faute de guide lu. Volets 4 et 5 non lus mot à mot.
 - Veille : rien de nouveau et vérifiable (recherches Québec.ca, DEC, CPMT). Productivité-Compétences : communiqué du 14 juillet 2026 (51 projets IA, 10 M$) déjà ancien; appels « Formation aux gestionnaires » et « Économie verte et transformation numérique » sans date confirmée (page CPMT non lisible). Le Devoir (article sur le faible recours aux programmes d'aide tarifaire d'août) et infobref (énoncé économique d'automne) non lisibles : pistes à confirmer à une source officielle.
 - Accès web : plusieurs pages refusées (PROVENANCE_REQUIRED) quand l'URL n'apparaît pas d'abord dans un résultat de recherche; astuce : faire d'abord une recherche web qui fait ressortir l'URL officielle, puis la lire.
+
+## 2026-11-17
+- Signalements (GitHub Issues) : aucun.
+- Mises à jour : aucune nécessaire (EEC 3 déc. et festivals 2 déc. : revérification complète prévue vers le 25 novembre; rien de nouveau repéré pour PAUPME, IRIA, DÉPART, IRRT, ESSOR, prêts pardonnables).
+- Publié (page pilier) : /subventions-pme-quebec/ — guide des programmes ouverts (dates limites, programmes à faire autoriser avant le 31 mars 2027, programmes en continu, aide au choix). Tous les faits repris des 10 articles existants (vérifiés aux sources entre le 8 et le 16 novembre), aucun fait nouveau. Lien ajouté dans le pied de page (build.py). À mettre à jour chaque mois et à chaque nouvel article de la catégorie.
+- Veille : rien de nouveau et vérifiable (recherches Québec.ca et DEC : seulement des annonces d'aide à des entreprises nommées). Mise à jour économique du Québec 2026 : aucune date trouvée (en 2025, elle avait eu lieu le 18 novembre) : à surveiller.
+- IndexNow : workflow du 16 nov. réussi; celui de ce push à vérifier à la prochaine exécution.

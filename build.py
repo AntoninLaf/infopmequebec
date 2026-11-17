@@ -153,7 +153,7 @@ def layout(title, description, path, body, *, schema=None, og_type="website", no
 </div></main>
 <footer class="site"><div class="wrap">
 <p>{FLAG_FOOT}<strong>{esc(CONFIG['name'])}</strong> — {esc(CONFIG['tagline'])}</p>
-<p><a href="/a-propos/">À propos</a> · <a href="/politique-editoriale/">Politique éditoriale</a> · <a href="/corrections/">Corrections et contact</a> · <a href="/feed.xml">RSS</a></p>
+<p><a href="/subventions-pme-quebec/">Guide des subventions pour PME</a> · <a href="/a-propos/">À propos</a> · <a href="/politique-editoriale/">Politique éditoriale</a> · <a href="/corrections/">Corrections et contact</a> · <a href="/feed.xml">RSS</a></p>
 <p>Information générale seulement. Vérifiez toujours les conditions auprès de l'organisme responsable avant de déposer une demande.</p>
 </div></footer>
 </body>
