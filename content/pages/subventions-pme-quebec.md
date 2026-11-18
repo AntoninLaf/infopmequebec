@@ -1,11 +1,11 @@
 ---
 title: "Subventions pour PME au Québec : les programmes d'aide ouverts et leurs dates limites (2026-2027)"
-description: "Guide des subventions, prêts et garanties offerts aux PME du Québec en 2026-2027 : ESSOR, DÉPART, PAUPME, IRRT, IRIA, Emplois d'été Canada. Montants et échéances."
+description: "Guide des subventions, prêts et garanties offerts aux PME du Québec en 2026-2027 : ESSOR, DÉPART, PSCE, PAUPME, IRRT, IRIA, Emplois d'été Canada. Montants et échéances."
 ---
 
 Ce guide réunit les principaux programmes d'aide financière que les PME du Québec peuvent demander en ce moment, selon les articles d'InfoPME Québec. Pour chaque programme, il indique la forme d'aide, le montant maximal, à qui il s'adresse et l'échéance à surveiller. Les détails et les sources officielles se trouvent dans l'article lié.
 
-*Mis à jour le 17 novembre 2026. Les montants et les dates proviennent des articles liés, vérifiés aux sources officielles à la date indiquée dans chacun.*
+*Mis à jour le 18 novembre 2026. Les montants et les dates proviennent des articles liés, vérifiés aux sources officielles à la date indiquée dans chacun.*
 
 ## Les dates limites à ne pas manquer
 
@@ -34,11 +34,19 @@ Plusieurs programmes québécois acceptent les demandes en continu, mais leur ca
 | [PAUPME – Tarifs douaniers](/paupme-tarifs-douaniers-pret-150000-admissibilite/) | Prêt pour le fonds de roulement, 0 % d'intérêt pendant 12 mois | Au plus 150 000 $ | PME de 200 000 $ à 2 M$ de chiffre d'affaires, avec au moins 25 % du chiffre d'affaires de 2024 tiré d'exportations vers les États-Unis | Modalités en vigueur jusqu'au 31 mars 2028 |
 | [Initiative régionale en matière d'intelligence artificielle (DEC)](/iria-dec-intelligence-artificielle-pme-quebec/) | Aide remboursable pour les PME | Jusqu'à 50 % des coûts autorisés | PME qui adoptent l'IA ou développent des solutions d'IA | Aucune date limite annoncée |
 
+## Programmes à périodes de dépôt
+
+| Programme | Forme d'aide | Montant | Pour qui | Prochaine période |
+|---|---|---|---|---|
+| [PSCE, volet 2 (exportation)](/psce-subvention-exportation-pme-quebec-60000/) | Subvention, 50 % des dépenses admissibles pour un premier projet (puis 40 % et 25 %) | 25 000 $ à 60 000 $ par projet, par année | Entreprises de plus de 1 M$ et d'au plus 50 M$ de chiffre d'affaires | Printemps 2027 (Canada et Europe), dates à confirmer |
+
 ## Comment choisir?
 
 **Vous êtes touché par les droits de douane américains?** Les deux programmes sont complémentaires selon votre taille : le [PAUPME – Tarifs douaniers](/paupme-tarifs-douaniers-pret-150000-admissibilite/) vise les PME de 200 000 $ à 2 M$ de chiffre d'affaires (demande à la MRC), alors que l'[IRRT de DEC](/irrt-dec-reponse-tarifaire-pme-quebec-liquidites-2-millions/) exige un chiffre d'affaires d'au moins 1 M$ et offre une aide non remboursable.
 
 **Vous voulez numériser vos opérations ou intégrer l'IA?** Le [diagnostic et le plan numérique d'ESSOR](/essor-diagnostic-numerique-plan-numerique-subvention-pme/) sont non remboursables, mais réservés aux entreprises d'au moins 2,5 M$ de chiffre d'affaires. L'[IRIA de DEC](/iria-dec-intelligence-artificielle-pme-quebec/) offre une aide remboursable, et les coûts n'y sont admissibles qu'à partir du dépôt de la demande.
+
+**Vous voulez développer des marchés hors Québec?** Le [PSCE](/psce-subvention-exportation-pme-quebec-60000/) subventionne salons, représentant commercial à l'étranger et certifications, mais seulement pendant des périodes de dépôt de deux semaines : la prochaine est prévue au printemps 2027.
 
 **Vous investissez dans de l'équipement ou une hausse de production?** Voyez [ESSOR volet 2](/essor-volet-2-projets-investissement-pme-pret-garantie/) pour les projets d'au moins 100 000 $, et, si vous êtes dans une MRC ciblée, [DÉPART](/programme-depart-subvention-pme-regions-125000/). Côté fiscal, le [budget fédéral 2026](/budget-federal-2026-pme-megadeduction-productivite/) propose la déduction immédiate des biens admissibles acquis à compter du 15 septembre 2026 (mesure encore à adopter par une loi).
 

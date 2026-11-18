@@ -3,13 +3,13 @@
 Format : source — ce qu'on y cherche — dernière vérification
 
 ## Québec
-- Québec.ca, nouvelles (https://www.quebec.ca/nouvelles) — communiqués des ministères (Économie, Emploi, Tourisme, Finances) — 2026-11-17 (par recherche; page de liste non lisible). Les communiqués sont aussi diffusés sur newswire.ca (CNW), source acceptable quand l'émetteur est un cabinet ou un ministère
-- Investissement Québec, produits financiers (https://www.investquebec.com) — ESSOR et autres programmes, guides de présentation — 2026-11-13 (guides ESSOR 1B et 1C; pages HTML non lisibles)
-- Ministère de l'Économie, de l'Innovation et de l'Énergie, cadres normatifs (cdn-contenu.quebec.ca) — nouveaux cadres normatifs — 2026-11-16 (CN ESSOR 2025-2027 v2.0, sections 1 à 5.3)
+- Québec.ca, nouvelles (https://www.quebec.ca/nouvelles) — communiqués des ministères (Économie, Emploi, Tourisme, Finances) — 2026-11-18 (par recherche; page de liste non lisible). Les communiqués sont aussi diffusés sur newswire.ca (CNW), source acceptable quand l'émetteur est un cabinet ou un ministère
+- Investissement Québec, produits financiers (https://www.investquebec.com) — ESSOR, PSCE et autres programmes, guides de présentation — 2026-11-18 (pages PSCE, volets 1 et 2, lisibles après recherche web; guides ESSOR 1B et 1C le 2026-11-13)
+- Ministère de l'Économie, de l'Innovation et de l'Énergie, cadres normatifs (cdn-contenu.quebec.ca) — nouveaux cadres normatifs — 2026-11-18 (CN PSCE 2025-2028; CN ESSOR 2025-2027 v2.0 le 2026-11-16)
 - Services Québec / Emploi-Québec — subventions salariales, formation — à faire
 - CPMT (cpmt.gouv.qc.ca) — appels de projets Productivité-Compétences (FDRCMO) — 2026-11-10 (page non lisible; communiqués lus)
 - Revenu Québec, nouvelles — crédits d'impôt, échéances — à faire
-- Gazette officielle du Québec (publicationsduquebec.gouv.qc.ca) — décrets de programmes — à faire
+- Gazette officielle du Québec (publicationsduquebec.gouv.qc.ca) — décrets de programmes — 2026-11-18 (décret 1416-2025, PSCE)
 - SEAO (seao.gouv.qc.ca) — appels d'offres publics — à faire
 
 ## Fédéral
@@ -29,6 +29,7 @@ Format : source — ce qu'on y cherche — dernière vérification
 - Révision des outils d'aide aux entreprises annoncée le 9 nov. 2026 (nouveau gouvernement) : surveiller les changements à ESSOR, PACTE, FDE.
 
 ## Couverts
+- PSCE (commercialisation et exportation), volets 1 à 3 — article 2026-11-18 (volet 2 : prochaine période printemps 2027 à confirmer)
 - ESSOR volet 1, sous-volets 1B et 1C (numérique) — article 2026-11-13 (cadre normatif v2.0)
 - ESSOR volet 2 (projets d'investissement) — article 2026-11-16 (volets 3 à 5 non couverts; volet 3 environnement lu en partie)
 - IRIA (DEC) — article 2026-11-09

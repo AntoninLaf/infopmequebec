@@ -84,3 +84,13 @@
 - Publié (page pilier) : /subventions-pme-quebec/ — guide des programmes ouverts (dates limites, programmes à faire autoriser avant le 31 mars 2027, programmes en continu, aide au choix). Tous les faits repris des 10 articles existants (vérifiés aux sources entre le 8 et le 16 novembre), aucun fait nouveau. Lien ajouté dans le pied de page (build.py). À mettre à jour chaque mois et à chaque nouvel article de la catégorie.
 - Veille : rien de nouveau et vérifiable (recherches Québec.ca et DEC : seulement des annonces d'aide à des entreprises nommées). Mise à jour économique du Québec 2026 : aucune date trouvée (en 2025, elle avait eu lieu le 18 novembre) : à surveiller.
 - IndexNow : workflow du 16 nov. réussi; celui de ce push à vérifier à la prochaine exécution.
+
+## 2026-11-18
+- Signalements (GitHub Issues) : aucun.
+- Mises à jour : aucune nécessaire (EEC 3 déc. et festivals 2 déc. : revérification complète prévue vers le 25 novembre; rien de nouveau repéré pour PAUPME, IRIA, DÉPART, IRRT, ESSOR, prêts pardonnables).
+- Publié : /psce-subvention-exportation-pme-quebec-60000/ — sources : cadre normatif PSCE 2025-2028 (MEIE, novembre 2025, p. 4-28 lues mot à mot) + décret 1416-2025 du 26 nov. 2025 (Gazette officielle, 17 déc. 2025) + page Volet 2 d'IQ (mise à jour le 1er oct. 2026) + page Volet 1 d'IQ (mise à jour le 1er déc. 2025).
+  - Vérification : relecture indépendante, 16 énoncés confirmés (taux 50/40/25 %, 25 000 $ à 60 000 $ par projet par année, représentant 45 000 $, cumul 65 %, apport privé 35 % en espèces, CA 1 M$-50 M$, plafonds 10 000 $/25 000 $/52 semaines, 18 mois, calendrier de dépôt).
+  - Notes : Volet 2 fermé (dernière période 17 sept.-1er oct. 2026); printemps 2027 (Canada et Europe) « à confirmer » : surveiller la page Volet 2 d'IQ et mettre l'article à jour (champ `deadline`) dès que les dates sont publiées. Écarts mineurs entre le cadre et la page IQ (60 000 $ par projet vs par entreprise; apport privé sur dépenses admissibles vs coût total) : version du cadre retenue. Annexe 3 du cadre (p. 36) et pages 29-36 non lues mot à mot. Page Volet 3 d'IQ et page de préqualification (illisible) non lues.
+- Page pilier /subventions-pme-quebec/ mise à jour : nouvelle section « Programmes à périodes de dépôt » (PSCE) et conseil exportation.
+- Veille : mise à jour économique du Québec 2026 toujours sans date officielle trouvée; rien d'autre de nouveau et vérifiable (Québec.ca, DEC).
+- IndexNow : workflow du 17 nov. réussi (exécution 44086100145).
