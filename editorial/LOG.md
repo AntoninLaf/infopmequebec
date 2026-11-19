@@ -94,3 +94,13 @@
 - Page pilier /subventions-pme-quebec/ mise à jour : nouvelle section « Programmes à périodes de dépôt » (PSCE) et conseil exportation.
 - Veille : mise à jour économique du Québec 2026 toujours sans date officielle trouvée; rien d'autre de nouveau et vérifiable (Québec.ca, DEC).
 - IndexNow : workflow du 17 nov. réussi (exécution 44086100145).
+
+## 2026-11-19
+- Signalements (GitHub Issues) : aucun.
+- Mises à jour : aucune nécessaire (EEC 3 déc. et festivals 2 déc. : revérification complète prévue vers le 25 novembre; rien de nouveau repéré pour PAUPME, IRIA, DÉPART, IRRT, ESSOR, PSCE, prêts pardonnables).
+- Publié : /productivite-competences-formation-gestionnaires-pme/ (catégorie emploi) — sources : guide de l'appel de projets « Formation aux gestionnaires pour soutenir la performance des PME » (CPMT/MESS, 2026, PDF p. 2-8) + page CPMT « Appels de projets en cours » (mise à jour 2026-10-23, appel affiché en cours, « à l'épuisement des fonds disponibles ») + communiqués quebec.ca du 8 avril 2026 (enveloppe 10 M$ sur deux ans) et du 2 février 2026 (programme 55 M$, FDRCMO).
+  - Vérification : relecture indépendante du guide, 17 énoncés confirmés. Corrigés avant publication : « séances d'information » retiré de la liste des exclusions (le guide les cite aussi comme élément admissible, p. 3), qualificatifs ajoutés (franchiseurs, comités paritaires, organismes autochtones), courriel présenté comme option (« peut être faite par courriel »), départage seulement entre projets équivalents.
+  - Notes : les communiqués sont dans les archives des anciens cabinets (gouvernement changé le 21 oct. 2026) : statut de l'appel confirmé seulement par la page CPMT du 23 oct. Maximums horaires de l'annexe (25 $/h salaires, 150 $/h formateurs) mentionnés sans chiffres (tableau extrait à plat). Aucune donnée sur les fonds restants.
+- Page pilier /subventions-pme-quebec/ mise à jour (ligne Productivité-Compétences et conseil « former vos gestionnaires »).
+- Écarté : CanExport PME (fermé; « toutes les demandes reçues pour la période 2026-2027 ont été traitées », aucune date de réouverture). Appels CPMT Lanaudière (16 oct.) et Montérégie (28 oct.) fermés. Autres appels CPMT (Sceau rouge, Emplois durables, Côte-Nord) : visent des promoteurs de formation, peu pertinents pour les PME.
+- Veille : mise à jour économique du Québec 2026 toujours sans date officielle trouvée; rien d'autre de nouveau et vérifiable (Québec.ca, DEC).

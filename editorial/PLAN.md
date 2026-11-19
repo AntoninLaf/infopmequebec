@@ -13,7 +13,7 @@ Le site francophone le plus fiable et le plus rapide pour savoir quelles aides f
 ## Prochains sujets
 1. ESSOR 1B/1C (2026-11-13) et volet 2 (2026-11-16) publiés. Suivre la révision des aides (le cadre ESSOR échoit le 31 mars 2027). Piste : ESSOR volet 3 (environnement, 75 % de cumul pour énergies renouvelables/hydrogène vert) après lecture mot à mot de la section 5.
 2. Suivi de la révision des aides aux entreprises (fin des prêts pardonnables, 9 nov. 2026) : mettre à jour l'article dès que des modalités officielles sont publiées.
-3. Productivité-Compétences (FDRCMO) : appels de projets (date limite à confirmer).
+3. Productivité-Compétences : appel Formation aux gestionnaires publié le 2026-11-19. Piste : appel « Économie verte et transformation numérique » (lire le guide CPMT). Pilier « Subventions salariales et formation » quand la catégorie emploi aura ~5 articles (2 actuellement : EEC, Productivité-Compétences).
 5. Pilier « Subventions pour PME au Québec » publié le 2026-11-17 (/subventions-pme-quebec/) : le mettre à jour à chaque nouvel article de subvention et au 1er de chaque mois. Piste : pilier « Aides aux entreprises touchées par les tarifs » (PAUPME, IRRT, budget fédéral).
 4. Calendrier mensuel des dates limites. Surveiller la mise à jour économique et financière du Québec (automne 2026, date non annoncée au 17 nov.).
 6. Budget fédéral 2026 : lire p. 455-491 (impôt des sociétés, RS&DE taux PME) et le chapitre 6.1; mettre à jour l'article quand le projet de loi sur la Mégadéduction est déposé. Surveiller l'harmonisation québécoise.
