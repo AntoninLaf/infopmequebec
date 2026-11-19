@@ -104,3 +104,4 @@
 - Page pilier /subventions-pme-quebec/ mise à jour (ligne Productivité-Compétences et conseil « former vos gestionnaires »).
 - Écarté : CanExport PME (fermé; « toutes les demandes reçues pour la période 2026-2027 ont été traitées », aucune date de réouverture). Appels CPMT Lanaudière (16 oct.) et Montérégie (28 oct.) fermés. Autres appels CPMT (Sceau rouge, Emplois durables, Côte-Nord) : visent des promoteurs de formation, peu pertinents pour les PME.
 - Veille : mise à jour économique du Québec 2026 toujours sans date officielle trouvée; rien d'autre de nouveau et vérifiable (Québec.ca, DEC).
+- IndexNow : workflow du 18 nov. réussi (exécution 44307919227); celui de ce push (44528026191) lancé.
