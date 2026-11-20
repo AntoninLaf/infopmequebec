@@ -18,6 +18,7 @@ Le site francophone le plus fiable et le plus rapide pour savoir quelles aides f
 4. Calendrier mensuel des dates limites. Surveiller la mise à jour économique et financière du Québec (automne 2026, date non annoncée au 17 nov.).
 6. Budget fédéral 2026 : lire p. 455-491 (impôt des sociétés, RS&DE taux PME) et le chapitre 6.1; mettre à jour l'article quand le projet de loi sur la Mégadéduction est déposé. Surveiller l'harmonisation québécoise.
 8. PSCE (article 2026-11-18) : surveiller la page Volet 2 d'IQ pour les dates du printemps 2027 (Canada et Europe) et les ajouter (champ `deadline`, calendrier, pilier). Piste : pilier « Aides à l'exportation et aux entreprises touchées par les tarifs » (PSCE, PAUPME, IRRT).
+9. PAPDE publié le 2026-11-20 (projets collectifs). Piste : article sur les ententes sectorielles ou les créneaux d'excellence seulement si un appel de projets précis est publié.
 7. Catégorie « fiscalite » : 1 article. Catégorie « numerique » : 2 articles (IRIA, ESSOR 1B/1C).
 
 ## Fréquence

@@ -5,7 +5,7 @@ description: "Guide des subventions, prêts et garanties offerts aux PME du Qué
 
 Ce guide réunit les principaux programmes d'aide financière que les PME du Québec peuvent demander en ce moment, selon les articles d'InfoPME Québec. Pour chaque programme, il indique la forme d'aide, le montant maximal, à qui il s'adresse et l'échéance à surveiller. Les détails et les sources officielles se trouvent dans l'article lié.
 
-*Mis à jour le 19 novembre 2026. Les montants et les dates proviennent des articles liés, vérifiés aux sources officielles à la date indiquée dans chacun.*
+*Mis à jour le 20 novembre 2026. Les montants et les dates proviennent des articles liés, vérifiés aux sources officielles à la date indiquée dans chacun.*
 
 ## Les dates limites à ne pas manquer
 
@@ -34,6 +34,7 @@ Plusieurs programmes québécois acceptent les demandes en continu, mais leur ca
 | [PAUPME – Tarifs douaniers](/paupme-tarifs-douaniers-pret-150000-admissibilite/) | Prêt pour le fonds de roulement, 0 % d'intérêt pendant 12 mois | Au plus 150 000 $ | PME de 200 000 $ à 2 M$ de chiffre d'affaires, avec au moins 25 % du chiffre d'affaires de 2024 tiré d'exportations vers les États-Unis | Modalités en vigueur jusqu'au 31 mars 2028 |
 | [Initiative régionale en matière d'intelligence artificielle (DEC)](/iria-dec-intelligence-artificielle-pme-quebec/) | Aide remboursable pour les PME | Jusqu'à 50 % des coûts autorisés | PME qui adoptent l'IA ou développent des solutions d'IA | Aucune date limite annoncée |
 | [Productivité-Compétences, formation des gestionnaires](/productivite-competences-formation-gestionnaires-pme/) | Subvention à un promoteur collectif (100 % de l'élaboration, 85 % de la diffusion, salaires des participants compris) | Au plus 500 000 $ par promoteur | Gestionnaires d'entreprises de moins de 100 employés, au moins deux employeurs par projet | Jusqu'à l'épuisement des fonds |
+| [PAPDE, volet 2 (secteurs stratégiques et régions)](/papde-subvention-projets-collectifs-developpement-economique/) | Subvention non remboursable pour des projets collectifs (études, missions, salons, innovation collaborative) | Jusqu'à 1 M$ par projet par année (40 % pour une entreprise, 60 % pour un organisme) | Organismes et entreprises dont le projet profite à plusieurs entreprises | Demandes à faire autoriser au plus tard le 31 mars 2029 |
 
 ## Programmes à périodes de dépôt
 
@@ -52,6 +53,8 @@ Plusieurs programmes québécois acceptent les demandes en continu, mais leur ca
 **Vous investissez dans de l'équipement ou une hausse de production?** Voyez [ESSOR volet 2](/essor-volet-2-projets-investissement-pme-pret-garantie/) pour les projets d'au moins 100 000 $, et, si vous êtes dans une MRC ciblée, [DÉPART](/programme-depart-subvention-pme-regions-125000/). Côté fiscal, le [budget fédéral 2026](/budget-federal-2026-pme-megadeduction-productivite/) propose la déduction immédiate des biens admissibles acquis à compter du 15 septembre 2026 (mesure encore à adopter par une loi).
 
 **Vous voulez former vos gestionnaires?** L'appel [Productivité-Compétences pour la formation des gestionnaires](/productivite-competences-formation-gestionnaires-pme/) paie la plus grande partie de la formation, mais la demande doit être déposée par un regroupement (association, comité sectoriel, mutuelle de formation) : adressez-vous au vôtre.
+
+**Vous préparez un projet commun avec d'autres entreprises (mission, salon, étude de filière)?** Le [PAPDE](/papde-subvention-projets-collectifs-developpement-economique/) finance ce type de projet, idéalement porté par une association ou un organisme de développement économique.
 
 **Vous embauchez des étudiants l'été prochain?** La date limite d'[Emplois d'été Canada 2027](/emplois-ete-canada-2027-date-limite/) est le 3 décembre 2026.
 

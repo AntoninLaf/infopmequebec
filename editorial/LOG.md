@@ -105,3 +105,13 @@
 - Écarté : CanExport PME (fermé; « toutes les demandes reçues pour la période 2026-2027 ont été traitées », aucune date de réouverture). Appels CPMT Lanaudière (16 oct.) et Montérégie (28 oct.) fermés. Autres appels CPMT (Sceau rouge, Emplois durables, Côte-Nord) : visent des promoteurs de formation, peu pertinents pour les PME.
 - Veille : mise à jour économique du Québec 2026 toujours sans date officielle trouvée; rien d'autre de nouveau et vérifiable (Québec.ca, DEC).
 - IndexNow : workflow du 18 nov. réussi (exécution 44307919227); celui de ce push (44528026191) lancé.
+
+## 2026-11-20
+- Signalements (GitHub Issues) : aucun.
+- Mises à jour : aucune nécessaire. PAUPME revérifié à la page Québec.ca (mise à jour du 19 oct. 2026, inchangée : 150 000 $, 0 % 12 mois puis 3,86 %, jusqu'au 31 mars 2028). EEC 3 déc. et festivals 2 déc. : revérification complète prévue vers le 25 novembre.
+- Publié : /papde-subvention-projets-collectifs-developpement-economique/ — sources : cadre normatif PAPDE 2026-2029 (MEIE, approuvé par le CT le 9 juin 2026, dernière mise à jour novembre 2026, p. 3-29 lues mot à mot) + pages Québec.ca des volets 2 (31 juill. 2026) et 1 (27 juill. 2026).
+  - Vérification : relecture indépendante, 13 énoncés confirmés (1 M$/projet/année et 3 M$ sur trois ans, taux 60/70 % et 60/40/70 %, cumul 80/50/100 %, mise de fonds 20 %/50 %, 3 mois/3 ans/36 mois, traitement en continu, déclaration PAEE >100 employés et subvention ≥ 100 000 $, non-cumul avec le FDE). Retirés avant publication : « fonctionnement courant » (non confirmé pour le volet 2) et la mention des dépenses entre le dépôt et l'autorisation.
+  - Notes : les pages Québec.ca disent « avant le 31 mars 2029 », le cadre dit « autorisées au plus tard » : précisé dans l'article. Pas de champ `deadline`. Ambiguïté du cadre sur les entreprises à but lucratif (« dont les activités sont similaires ») : article limité à la condition sûre (projet au bénéfice de plusieurs entreprises).
+- Page pilier /subventions-pme-quebec/ mise à jour (ligne PAPDE et conseil « projet commun »).
+- Écarté : appel CPMT « Économie verte et transformation numérique » : le PDF trouvé date de janvier 2022 (programme Ambition-Compétences), pas l'appel 2026 : à revoir si un guide 2026 est trouvé. ESSOR volet 3 : PDF du cadre refusé (PROVENANCE_REQUIRED) cette fois. Mise à jour économique du Québec : les résultats « 25 novembre » datent de 2025; aucune date 2026 officielle trouvée.
+- IndexNow : workflow du 19 nov. réussi (exécution 44528026191).
