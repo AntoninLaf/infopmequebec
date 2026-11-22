@@ -71,6 +71,8 @@ Attentes réalistes : presque rien avant le mois 3-4; quelques centaines à quel
 Seulement si un humain est nécessaire : paiement, accès à un compte, demande de correction ou plainte d'un lecteur ou d'un organisme, échec du build ou de l'hébergement que tu ne peux pas régler, action manuelle de Google. Sinon, ne le dérange pas.
 
 ## Rapport mensuel
+Antonin envoie les données de Google Search Console le 1er de chaque mois (export du mois précédent : clics, impressions, CTR, position par page et par requête, indexation et sitemap), dans une Google Sheet ou un CSV déposé dans `editorial/gsc/`. Si elles ne sont pas encore arrivées, fais le bilan sans elles, note-le dans le rapport et ne le relance pas.
+
 Au premier passage de chaque mois : bilan dans `editorial/RAPPORTS.md` (articles publiés, mises à jour, données Search Console si accessibles, ce qui fonctionne, ce que tu changes) et notification courte à Antonin avec les 3 points clés.
 
 ## Design (décidé par Antonin, ne pas changer sans son accord)
