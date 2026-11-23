@@ -115,3 +115,13 @@
 - Page pilier /subventions-pme-quebec/ mise à jour (ligne PAPDE et conseil « projet commun »).
 - Écarté : appel CPMT « Économie verte et transformation numérique » : le PDF trouvé date de janvier 2022 (programme Ambition-Compétences), pas l'appel 2026 : à revoir si un guide 2026 est trouvé. ESSOR volet 3 : PDF du cadre refusé (PROVENANCE_REQUIRED) cette fois. Mise à jour économique du Québec : les résultats « 25 novembre » datent de 2025; aucune date 2026 officielle trouvée.
 - IndexNow : workflow du 19 nov. réussi (exécution 44528026191).
+
+## 2026-11-23
+- Signalements (GitHub Issues) : aucun.
+- Mises à jour (vérification seulement, `verified` 2026-11-23, contenu inchangé) :
+  - /emplois-ete-canada-2027-date-limite/ — guide du demandeur EDSC (page datée 2026-10-27) : période du 27 oct. au 3 déc. 2026 à 23 h 59 (heure du Pacifique), statut « Ouvert », aucune prolongation; ≤ 50 employés à temps plein; 50 % / 100 %; emplois du 19 avril au 28 août 2027.
+  - /festivals-evenements-touristiques-2027-aide-financiere/ — page du programme et communiqué du 4 nov. : 2 déc. 2026 à 15 h 59 (volets 1 et 2), aucune prolongation; événements du 1er mai au 31 oct. 2027; OBL admissibles, cumul 50 %, coûts admissibles ≥ 90 000 $; ententes triennales/biennales sans nouvelle demande. Prochaine période (événements du 1er nov. 2027 au 30 avril 2028) : « un mois au cours du printemps 2027 », dates non publiées.
+- Publié : aucun article (rien de nouveau et vérifiable).
+- Veille : appels de projets en innovation (Québec.ca) : Primo-adoptants — dernière date de dépôt 4 nov. 2026 passée (75 000 $, 60 %); culture scientifique et innovation sociale terminés; secteurs stratégiques fermé (1er avril 2026). Relève et transfert d'entreprises (communiqué du 18 juin 2026, 500 M$ IQ/FCEQ/Réseau accès PME) : ancien et sans modalités de demande, écarté. Mise à jour économique du Québec 2026 : toujours aucune date officielle trouvée. Projet de loi fédéral sur la Mégadéduction : rien trouvé. DEC : seulement des annonces d'aide à des entreprises nommées.
+- Accès web : les pages canada.ca et quebec.ca refusées (PROVENANCE_REQUIRED) en lecture directe ont été lues après une recherche web qui faisait ressortir l'URL.
+- IndexNow : workflow du 20 nov. réussi (exécution 44739657835).

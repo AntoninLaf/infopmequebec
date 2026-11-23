@@ -4,7 +4,7 @@ description: "La période de demande d'Emplois d'été Canada 2027 se termine le
 date: 2026-11-08
 category: emploi
 deadline: 2026-12-03
-verified: 2026-11-08
+verified: 2026-11-23
 retenir:
   - "La période de demande se termine le **3 décembre 2026 à 23 h 59, heure du Pacifique**."
   - "Les entreprises privées de **50 employés à temps plein ou moins** sont admissibles, tout comme les OBNL et certains employeurs publics."

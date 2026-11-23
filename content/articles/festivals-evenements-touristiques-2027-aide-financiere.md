@@ -4,7 +4,7 @@ description: "Québec ouvre la période de dépôt du programme Aide financière
 date: 2026-11-08
 category: subventions
 deadline: 2026-12-02
-verified: 2026-11-08
+verified: 2026-11-23
 retenir:
   - "Le programme vise les festivals et événements qui auront lieu **entre le 1er mai et le 31 octobre 2027**."
   - "Date limite de dépôt : **2 décembre 2026 à 15 h 59**, par le portail Aide financière du ministère."
