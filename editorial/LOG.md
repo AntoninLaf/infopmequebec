@@ -125,3 +125,13 @@
 - Veille : appels de projets en innovation (Québec.ca) : Primo-adoptants — dernière date de dépôt 4 nov. 2026 passée (75 000 $, 60 %); culture scientifique et innovation sociale terminés; secteurs stratégiques fermé (1er avril 2026). Relève et transfert d'entreprises (communiqué du 18 juin 2026, 500 M$ IQ/FCEQ/Réseau accès PME) : ancien et sans modalités de demande, écarté. Mise à jour économique du Québec 2026 : toujours aucune date officielle trouvée. Projet de loi fédéral sur la Mégadéduction : rien trouvé. DEC : seulement des annonces d'aide à des entreprises nommées.
 - Accès web : les pages canada.ca et quebec.ca refusées (PROVENANCE_REQUIRED) en lecture directe ont été lues après une recherche web qui faisait ressortir l'URL.
 - IndexNow : workflow du 20 nov. réussi (exécution 44739657835).
+
+## 2026-11-24
+- Signalements (GitHub Issues) : aucun.
+- Mises à jour : aucune nécessaire (EEC 3 déc. et festivals 2 déc. revérifiés le 2026-11-23; rien de nouveau repéré pour PAUPME, IRIA, DÉPART, IRRT, ESSOR, PSCE, PAPDE, Productivité-Compétences, prêts pardonnables).
+- Publié : /irid-dec-defense-pme-quebec-contribution-remboursable/ — sources : page IRID de DEC (canada.ca, modifiée 2026-05-12, « Programme en cours », « Accepte les demandes ») + communiqué DEC du 8 déc. 2025 (357,7 M$ au Canada, 64,9 M$ sur trois ans au Québec, CERI).
+  - Vérification : relecture indépendante des deux pages, 16 énoncés confirmés (PME : remboursable, jusqu'à 75 %; OBNL : généralement non remboursable, jusqu'à 90 %; clientèles; besoin des FAC/OTAN/pays allié; priorités au Québec; coûts non admissibles; initiative ponctuelle de trois ans). Corrigé avant publication : les OBNL sont admissibles seulement s'ils soutiennent les PME admissibles.
+  - Notes : aucun maximum en dollars, aucune définition de PME, aucune règle de cumul ni modalité de remboursement publiés (dit tel quel dans l'article). Pas de champ `deadline`. Le lien de dépôt mène au guide général de DEC.
+- Page pilier /subventions-pme-quebec/ mise à jour (ligne IRID et conseil « contrats de la défense »).
+- Veille : mise à jour économique du Québec 2026 toujours sans date officielle trouvée (résultats = novembre 2025). Québec.ca : appels et annonces sans intérêt direct pour les PME (aide à des entreprises nommées, économie sociale en Montérégie, promotion de la langue). Piste DEC : « Appui à l'innovation quantique régionale » (page canada.ca repérée, non lue).
+- IndexNow : workflow du 23 nov. réussi (exécution 45178152222).

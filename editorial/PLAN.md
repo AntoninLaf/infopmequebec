@@ -23,5 +23,7 @@ Le site francophone le plus fiable et le plus rapide pour savoir quelles aides f
 
 10. Festivals et événements touristiques : prochaine période (événements du 1er nov. 2027 au 30 avril 2028) « au printemps 2027 » : surveiller et publier dès l'annonce. Après le 3 déc., mettre à jour les articles EEC et festivals (période terminée) et le calendrier.
 
+11. IRID (défense, DEC) publié le 2026-11-24. Piste : pilier « Aides de DEC pour les PME » (IRIA, IRRT, IRID, et quantique si pertinent).
+
 ## Fréquence
 1 à 3 articles par jour ouvrable quand il y a des nouvelles vérifiables. Mises à jour avant nouveaux articles.

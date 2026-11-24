@@ -3,7 +3,7 @@
 Format : source — ce qu'on y cherche — dernière vérification
 
 ## Québec
-- Québec.ca, nouvelles (https://www.quebec.ca/nouvelles) — communiqués des ministères (Économie, Emploi, Tourisme, Finances) — 2026-11-23 (par recherche; page de liste non lisible). Les communiqués sont aussi diffusés sur newswire.ca (CNW), source acceptable quand l'émetteur est un cabinet ou un ministère
+- Québec.ca, nouvelles (https://www.quebec.ca/nouvelles) — communiqués des ministères (Économie, Emploi, Tourisme, Finances) — 2026-11-24 (par recherche; page de liste non lisible). Les communiqués sont aussi diffusés sur newswire.ca (CNW), source acceptable quand l'émetteur est un cabinet ou un ministère
 - Investissement Québec, produits financiers (https://www.investquebec.com) — ESSOR, PSCE et autres programmes, guides de présentation — 2026-11-18 (pages PSCE, volets 1 et 2, lisibles après recherche web; guides ESSOR 1B et 1C le 2026-11-13)
 - Ministère de l'Économie, de l'Innovation et de l'Énergie, cadres normatifs (cdn-contenu.quebec.ca) — nouveaux cadres normatifs — 2026-11-20 (CN PAPDE 2026-2029; CN PSCE 2025-2028 le 2026-11-18; CN ESSOR 2025-2027 v2.0 le 2026-11-16)
 - Québec.ca, appels de projets en recherche et innovation (liste-partielle-aide-financiere/appels-projets-innovation) — 2026-11-23 (4 appels, tous terminés ou dates passées)
@@ -16,7 +16,7 @@ Format : source — ce qu'on y cherche — dernière vérification
 ## Fédéral
 - Budget fédéral 2026 (budget.canada.ca) — mesures fiscales et programmes — 2026-11-11 (PDF lu p. 1-126, 194-204, 419-454)
 - Canada.ca, Emploi et Développement social — Emplois d'été Canada, Stratégie emploi et compétences jeunesse — 2026-11-23 (guide du demandeur EEC 2027)
-- Développement économique Canada pour les régions du Québec (DEC) — initiatives régionales (IA, tarifs) — 2026-11-23 (recherche, rien de nouveau; IRRT 2026-11-12; IRIA 2026-11-09)
+- Développement économique Canada pour les régions du Québec (DEC) — initiatives régionales (IA, tarifs) — 2026-11-24 (IRID lue; IRRT 2026-11-12; IRIA 2026-11-09)
 - CanExport PME (deleguescommerciaux.gc.ca) — périodes de réception — 2026-11-19 (fermé, réouverture non annoncée)
 - BDC, Exportation et développement Canada — programmes PME — à faire
 
@@ -25,12 +25,14 @@ Format : source — ce qu'on y cherche — dernière vérification
 - Ville de Québec (Capitale-Commerce, etc.) — à faire
 
 ## Pistes repérées, non encore couvertes (à vérifier à la source officielle avant d'écrire)
+- DEC : Appui à l'innovation quantique régionale (canada.ca/fr/developpement-economique-regions-quebec/financement-services/appui-a-linnovation-quantique-regionale.html) — à lire.
 - Flux de nouvelles DEC/EDSC (api.io.canada.ca, format atom) : non lisibles le 2026-11-13 (PROVENANCE_REQUIRED).
 - Productivité-Compétences : appel « Économie verte et transformation numérique » (le PDF appel-projets-economie-verte.pdf date de janvier 2022, Ambition-Compétences : chercher le guide 2026 GUI_APP_PRJ_economie_verte.pdf; en cours, épuisement des fonds; 20 M$ annoncés en février 2026; guide GUI_APP_PRJ_economie_verte.pdf sur cpmt.gouv.qc.ca) — article possible après lecture du guide.
 - Énoncé économique d'automne du gouvernement du Québec (mentionné par infobref, novembre 2026) : date à confirmer sur finances.gouv.qc.ca.
 - Révision des outils d'aide aux entreprises annoncée le 9 nov. 2026 (nouveau gouvernement) : surveiller les changements à ESSOR, PACTE, FDE.
 
 ## Couverts
+- IRID (DEC, défense), contribution remboursable jusqu'à 75 % — article 2026-11-24
 - PAPDE 2026-2029 (projets collectifs, volets 1 et 2) — article 2026-11-20
 - Productivité-Compétences, appel Formation aux gestionnaires (CPMT) — article 2026-11-19 (en continu, épuisement des fonds)
 - PSCE (commercialisation et exportation), volets 1 à 3 — article 2026-11-18 (volet 2 : prochaine période printemps 2027 à confirmer)
