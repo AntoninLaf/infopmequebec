@@ -135,3 +135,14 @@
 - Page pilier /subventions-pme-quebec/ mise à jour (ligne IRID et conseil « contrats de la défense »).
 - Veille : mise à jour économique du Québec 2026 toujours sans date officielle trouvée (résultats = novembre 2025). Québec.ca : appels et annonces sans intérêt direct pour les PME (aide à des entreprises nommées, économie sociale en Montérégie, promotion de la langue). Piste DEC : « Appui à l'innovation quantique régionale » (page canada.ca repérée, non lue).
 - IndexNow : workflow du 23 nov. réussi (exécution 45178152222).
+
+## 2026-11-25
+- Signalements (GitHub Issues) : aucun.
+- Mises à jour : aucune nécessaire (EEC 3 déc. et festivals 2 déc. revérifiés le 2026-11-23; rien de nouveau repéré pour PAUPME, IRIA, DÉPART, IRRT, IRID, ESSOR, PSCE, PAPDE, Productivité-Compétences, prêts pardonnables).
+- Publié : /dec-mrc-economiquement-vulnerables-aide-pme/ — sources : page DEC « Appui ciblé aux MRC économiquement vulnérables du Québec » (modifiée 2025-02-24, « Ouvert ») + communiqué DEC du 6 août 2024 (initiative temporaire de trois ans, 2024-2027).
+  - Vérification : relecture indépendante des deux pages, 14 énoncés vérifiés (8 territoires identiques dans les deux pages, IDE, 75 MRC à faible potentiel, clientèles, 75 % remboursable sans intérêt ni garantie, remboursements 2 ans après la fin du projet, OBNL 90 % non remboursable, exemples d'activités, coûts admissibles/non admissibles, CERI et PDEQ). Corrigés avant publication : condition « si certaines conditions sont remplies » ajoutée à l'aide non remboursable < 100 k$ (« pourrait être considérée »); activités présentées comme exemples (« peuvent inclure »); durée 2024-2027 ajoutée.
+  - Notes : aucun maximum par projet, aucune enveloppe, aucune date limite publiés. Achat de terrain non mentionné (pas repris). La page DEC est de février 2025 : article de référence, pas une nouveauté.
+- Page pilier /subventions-pme-quebec/ mise à jour (ligne Appui ciblé MRC et conseil « équipement / hausse de production »).
+- Écarté : Appui à l'innovation quantique régionale (DEC, page modifiée 2026-11-13, « Accepte les demandes ») : aucun taux, montant ni enveloppe publiés (PME : contributions « généralement remboursables ou à remboursement conditionnel ») — trop mince pour un article; à reprendre si un guide ou un communiqué donne des chiffres. IRICR (DEC, construction résidentielle) : n'accepte plus les demandes (enveloppe 10,45 M$ épuisée). Page quebec.ca « appel-ia-quantiques » : redirige vers la liste générale des appels (aucun appel quantique). Communiqué Luqia (20 févr. 2026) : aide à un organisme nommé.
+- Veille : mise à jour économique du Québec 2026 toujours sans date officielle trouvée (résultats = 2025). Appel CPMT économie verte : toujours seulement le PDF de 2022.
+- IndexNow : workflow du 24 nov. réussi (exécution 45396724071).
