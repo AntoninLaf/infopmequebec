@@ -5,7 +5,7 @@ description: "Guide des subventions, prêts et garanties offerts aux PME du Qué
 
 Ce guide réunit les principaux programmes d'aide financière que les PME du Québec peuvent demander en ce moment, selon les articles d'InfoPME Québec. Pour chaque programme, il indique la forme d'aide, le montant maximal, à qui il s'adresse et l'échéance à surveiller. Les détails et les sources officielles se trouvent dans l'article lié.
 
-*Mis à jour le 24 novembre 2026. Les montants et les dates proviennent des articles liés, vérifiés aux sources officielles à la date indiquée dans chacun.*
+*Mis à jour le 25 novembre 2026. Les montants et les dates proviennent des articles liés, vérifiés aux sources officielles à la date indiquée dans chacun.*
 
 ## Les dates limites à ne pas manquer
 
@@ -35,6 +35,7 @@ Plusieurs programmes québécois acceptent les demandes en continu, mais leur ca
 | [Initiative régionale en matière d'intelligence artificielle (DEC)](/iria-dec-intelligence-artificielle-pme-quebec/) | Aide remboursable pour les PME | Jusqu'à 50 % des coûts autorisés | PME qui adoptent l'IA ou développent des solutions d'IA | Aucune date limite annoncée |
 | [Productivité-Compétences, formation des gestionnaires](/productivite-competences-formation-gestionnaires-pme/) | Subvention à un promoteur collectif (100 % de l'élaboration, 85 % de la diffusion, salaires des participants compris) | Au plus 500 000 $ par promoteur | Gestionnaires d'entreprises de moins de 100 employés, au moins deux employeurs par projet | Jusqu'à l'épuisement des fonds |
 | [Initiative régionale d'investissement dans la défense (DEC)](/irid-dec-defense-pme-quebec-contribution-remboursable/) | Contribution remboursable pour les PME | Jusqu'à 75 % des coûts autorisés | PME actives ou qui veulent se positionner dans la chaîne d'approvisionnement de la défense | Aucune date limite publiée (initiative de trois ans) |
+| [Appui ciblé aux MRC économiquement vulnérables (DEC)](/dec-mrc-economiquement-vulnerables-aide-pme/) | Aide généralement remboursable, sans intérêt et sans garantie, pour les PME | Jusqu'à 75 % des coûts autorisés | PME de 8 territoires (Golfe-du-Saint-Laurent, Avignon, La Haute-Gaspésie, Rocher-Percé, La Tuque, Kativik, Pontiac, La Vallée-de-la-Gatineau) | Aucune date limite publiée (initiative de trois ans, 2024-2027) |
 | [PAPDE, volet 2 (secteurs stratégiques et régions)](/papde-subvention-projets-collectifs-developpement-economique/) | Subvention non remboursable pour des projets collectifs (études, missions, salons, innovation collaborative) | Jusqu'à 1 M$ par projet par année (40 % pour une entreprise, 60 % pour un organisme) | Organismes et entreprises dont le projet profite à plusieurs entreprises | Demandes à faire autoriser au plus tard le 31 mars 2029 |
 
 ## Programmes à périodes de dépôt
@@ -51,7 +52,7 @@ Plusieurs programmes québécois acceptent les demandes en continu, mais leur ca
 
 **Vous voulez développer des marchés hors Québec?** Le [PSCE](/psce-subvention-exportation-pme-quebec-60000/) subventionne salons, représentant commercial à l'étranger et certifications, mais seulement pendant des périodes de dépôt de deux semaines : la prochaine est prévue au printemps 2027.
 
-**Vous investissez dans de l'équipement ou une hausse de production?** Voyez [ESSOR volet 2](/essor-volet-2-projets-investissement-pme-pret-garantie/) pour les projets d'au moins 100 000 $, et, si vous êtes dans une MRC ciblée, [DÉPART](/programme-depart-subvention-pme-regions-125000/). Côté fiscal, le [budget fédéral 2026](/budget-federal-2026-pme-megadeduction-productivite/) propose la déduction immédiate des biens admissibles acquis à compter du 15 septembre 2026 (mesure encore à adopter par une loi).
+**Vous investissez dans de l'équipement ou une hausse de production?** Voyez [ESSOR volet 2](/essor-volet-2-projets-investissement-pme-pret-garantie/) pour les projets d'au moins 100 000 $, et, si vous êtes dans une MRC ciblée, [DÉPART](/programme-depart-subvention-pme-regions-125000/). Dans huit territoires jugés économiquement vulnérables par DEC, l'[appui ciblé de DEC](/dec-mrc-economiquement-vulnerables-aide-pme/) finance aussi des projets non innovants (première transformation, hébergement touristique, commerces essentiels). Côté fiscal, le [budget fédéral 2026](/budget-federal-2026-pme-megadeduction-productivite/) propose la déduction immédiate des biens admissibles acquis à compter du 15 septembre 2026 (mesure encore à adopter par une loi).
 
 **Vous visez des contrats de la défense?** L'[IRID de DEC](/irid-dec-defense-pme-quebec-contribution-remboursable/) finance jusqu'à 75 % des coûts d'un projet (contribution remboursable), à condition de démontrer qu'il répond à un besoin des Forces armées canadiennes, de l'OTAN ou d'un pays allié.
 
