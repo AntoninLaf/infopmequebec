@@ -155,4 +155,5 @@
   - Notes : aucun maximum par projet, aucune date de fin, aucun solde de l'enveloppe publiés. Article de référence (page modifiée récemment, programme ancien).
 - Page pilier /subventions-pme-quebec/ mise à jour (ligne Est de Montréal, conseil « équipement / hausse de production »). Catégorie DEC : 6 articles, pilier « Aides de DEC » possible.
 - Veille : mise à jour économique du Québec 2026 toujours sans date officielle trouvée (résultats = 2025). Rien d'autre de nouveau et vérifiable.
+- IndexNow : workflow du 25 nov. réussi (exécution 45617146011); celui de ce push (45822817610) lancé.
 
