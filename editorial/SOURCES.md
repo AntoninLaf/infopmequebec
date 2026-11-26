@@ -16,7 +16,7 @@ Format : source — ce qu'on y cherche — dernière vérification
 ## Fédéral
 - Budget fédéral 2026 (budget.canada.ca) — mesures fiscales et programmes — 2026-11-11 (PDF lu p. 1-126, 194-204, 419-454)
 - Canada.ca, Emploi et Développement social — Emplois d'été Canada, Stratégie emploi et compétences jeunesse — 2026-11-23 (guide du demandeur EEC 2027)
-- Développement économique Canada pour les régions du Québec (DEC) — initiatives régionales (IA, tarifs) — 2026-11-25 (Appui ciblé MRC vulnérables, IQR, IRICR, CERI lus; IRID 2026-11-24; IRRT 2026-11-12; IRIA 2026-11-09)
+- Développement économique Canada pour les régions du Québec (DEC) — initiatives régionales (IA, tarifs) — 2026-11-26 (Est de Montréal lu; Appui ciblé MRC vulnérables, IQR, IRICR, CERI le 2026-11-25; IRID 2026-11-24; IRRT 2026-11-12; IRIA 2026-11-09)
 - CanExport PME (deleguescommerciaux.gc.ca) — périodes de réception — 2026-11-19 (fermé, réouverture non annoncée)
 - BDC, Exportation et développement Canada — programmes PME — à faire
 
@@ -26,13 +26,13 @@ Format : source — ce qu'on y cherche — dernière vérification
 
 ## Pistes repérées, non encore couvertes (à vérifier à la source officielle avant d'écrire)
 - DEC : Appui à l'innovation quantique régionale (IQR) — lu le 2026-11-25 : ouvert, mais aucun taux ni montant publiés; attendre un guide ou un communiqué chiffré.
-- DEC : Initiative pour l'Est de Montréal (programme du CERI, conditions assouplies) — à lire.
 - Flux de nouvelles DEC/EDSC (api.io.canada.ca, format atom) : non lisibles le 2026-11-13 (PROVENANCE_REQUIRED).
 - Productivité-Compétences : appel « Économie verte et transformation numérique » (le PDF appel-projets-economie-verte.pdf date de janvier 2022, Ambition-Compétences : chercher le guide 2026 GUI_APP_PRJ_economie_verte.pdf; en cours, épuisement des fonds; 20 M$ annoncés en février 2026; guide GUI_APP_PRJ_economie_verte.pdf sur cpmt.gouv.qc.ca) — article possible après lecture du guide.
 - Énoncé économique d'automne du gouvernement du Québec (mentionné par infobref, novembre 2026) : date à confirmer sur finances.gouv.qc.ca.
 - Révision des outils d'aide aux entreprises annoncée le 9 nov. 2026 (nouveau gouvernement) : surveiller les changements à ESSOR, PACTE, FDE.
 
 ## Couverts
+- Appui au développement économique de l'Est de Montréal (DEC) — article 2026-11-26 (appel innovation sociale fermé depuis le 29 nov. 2024)
 - Appui ciblé de DEC aux MRC économiquement vulnérables (8 territoires) — article 2026-11-25
 - IRICR (DEC, construction résidentielle) — vérifié 2026-11-25, n'accepte plus les demandes
 - IRID (DEC, défense), contribution remboursable jusqu'à 75 % — article 2026-11-24

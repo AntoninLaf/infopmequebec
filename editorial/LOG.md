@@ -146,3 +146,13 @@
 - Écarté : Appui à l'innovation quantique régionale (DEC, page modifiée 2026-11-13, « Accepte les demandes ») : aucun taux, montant ni enveloppe publiés (PME : contributions « généralement remboursables ou à remboursement conditionnel ») — trop mince pour un article; à reprendre si un guide ou un communiqué donne des chiffres. IRICR (DEC, construction résidentielle) : n'accepte plus les demandes (enveloppe 10,45 M$ épuisée). Page quebec.ca « appel-ia-quantiques » : redirige vers la liste générale des appels (aucun appel quantique). Communiqué Luqia (20 févr. 2026) : aide à un organisme nommé.
 - Veille : mise à jour économique du Québec 2026 toujours sans date officielle trouvée (résultats = 2025). Appel CPMT économie verte : toujours seulement le PDF de 2022.
 - IndexNow : workflow du 24 nov. réussi (exécution 45396724071).
+
+## 2026-11-26
+- Signalements (GitHub Issues) : aucun.
+- Mises à jour : aucune nécessaire (EEC 3 déc. et festivals 2 déc. revérifiés le 2026-11-23; rien de nouveau repéré pour les autres programmes couverts).
+- Publié : /dec-est-de-montreal-aide-pme-50-pourcent/ — sources : page DEC « Appui au développement économique de l'Est de Montréal » (modifiée 2026-11-13, « Accepte les demandes ») + document d'information et communiqué DEC du 6 mars 2025 (30 M$ annoncés le 13 nov. 2023; 21 projets soutenus).
+  - Vérification : relecture indépendante des pages, 14 énoncés confirmés (territoire avenue Papineau, clientèles, PME 50 % remboursable sans intérêt, remboursements ~2 ans après le projet, OBNL 90 % non remboursable, exceptions, coûts non admissibles, CERI/PDEQ, 30 M$, appel innovation sociale fermé le 29 nov. 2024). Corrigés avant publication : priorisation au conditionnel et limitée aux PME à portée locale; « équipements collectifs au cœur des zones industrielles »; réindustrialisation « principalement des PME »; formulation sur la prise de contact avec DEC.
+  - Notes : aucun maximum par projet, aucune date de fin, aucun solde de l'enveloppe publiés. Article de référence (page modifiée récemment, programme ancien).
+- Page pilier /subventions-pme-quebec/ mise à jour (ligne Est de Montréal, conseil « équipement / hausse de production »). Catégorie DEC : 6 articles, pilier « Aides de DEC » possible.
+- Veille : mise à jour économique du Québec 2026 toujours sans date officielle trouvée (résultats = 2025). Rien d'autre de nouveau et vérifiable.
+
