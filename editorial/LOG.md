@@ -157,3 +157,11 @@
 - Veille : mise à jour économique du Québec 2026 toujours sans date officielle trouvée (résultats = 2025). Rien d'autre de nouveau et vérifiable.
 - IndexNow : workflow du 25 nov. réussi (exécution 45617146011); celui de ce push (45822817610) lancé.
 
+
+## 2026-11-27
+- Signalements (GitHub Issues) : aucun.
+- Mises à jour : aucune nécessaire (EEC 3 déc. et festivals 2 déc. revérifiés le 2026-11-23; rien de nouveau repéré pour les autres programmes couverts).
+- Publié (page pilier) : /aides-dec-pme-quebec/ — guide des 5 programmes de DEC ouverts aux PME (IRRT, IRIA, IRID, MRC vulnérables, Est de Montréal) : tableau comparatif, aide au choix, points communs, programmes fermés (IRICR, appel innovation sociale Est de Montréal) et non couverts (quantique). Tous les faits repris des articles existants (vérifiés du 9 au 26 nov.) et du LOG; aucun fait nouveau. Relecture faite contre chaque article : formulations corrigées avant publication (« territoires désignés » au lieu de « régions éloignées », deux volets de l'Est de Montréal sans hiérarchie, retrait d'une affirmation non sourcée sur les chances d'un dépôt hâtif, mode de demande de l'IRRT). Lien ajouté depuis /subventions-pme-quebec/ (« Comment choisir? »). Pas de lien dans le pied de page (design inchangé).
+- Écarté : CPMT « Approches et expérimentation en littératie… » (Évolution-Compétences) : guide de mars 2025, date limite 20 juin 2025, promoteurs collectifs seulement. PECN, appel de projets (DEC) : réservé aux OBNL dirigés par des personnes noires, page ambiguë (« Programme en cours » et « N'accepte plus les demandes »), aucune date. Programme d'aide financière à l'investissement (rabais d'électricité, Finances Québec) : demandes d'admissibilité fermées depuis le 31 déc. 2023 (seuls les rapports audités restent dus au 31 déc. 2026), vise les clients au tarif L, pas les PME.
+- Veille : mise à jour économique du Québec 2026 toujours sans date officielle trouvée (résultats = 2025). Québec.ca et DEC : seulement des annonces d'aide à des entreprises nommées.
+- IndexNow : workflow du 26 nov. réussi (exécution 45822817610).

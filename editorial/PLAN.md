@@ -23,7 +23,7 @@ Le site francophone le plus fiable et le plus rapide pour savoir quelles aides f
 
 10. Festivals et événements touristiques : prochaine période (événements du 1er nov. 2027 au 30 avril 2028) « au printemps 2027 » : surveiller et publier dès l'annonce. Après le 3 déc., mettre à jour les articles EEC et festivals (période terminée) et le calendrier.
 
-11. IRID (défense, DEC) publié le 2026-11-24, Appui ciblé MRC vulnérables le 2026-11-25, Est de Montréal le 2026-11-26. Piste prioritaire : pilier « Aides de DEC pour les PME » (IRIA, IRRT, IRID, MRC vulnérables, Est de Montréal; 6 articles DEC).
+11. IRID (défense, DEC) publié le 2026-11-24, Appui ciblé MRC vulnérables le 2026-11-25, Est de Montréal le 2026-11-26. Pilier « Aides de DEC pour les PME » publié le 2026-11-27 (/aides-dec-pme-quebec/) : le mettre à jour à chaque nouvel article DEC et au 1er de chaque mois. Piste : ajouter un lien vers ce pilier dans les 5 articles DEC à leur prochaine mise à jour.
 
 12. Rapport mensuel le 1er décembre (RAPPORTS.md + notification à Antonin; données GSC dans editorial/gsc/ si arrivées).
 

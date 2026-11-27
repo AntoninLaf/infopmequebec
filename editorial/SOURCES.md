@@ -7,6 +7,7 @@ Format : source — ce qu'on y cherche — dernière vérification
 - Investissement Québec, produits financiers (https://www.investquebec.com) — ESSOR, PSCE et autres programmes, guides de présentation — 2026-11-18 (pages PSCE, volets 1 et 2, lisibles après recherche web; guides ESSOR 1B et 1C le 2026-11-13)
 - Ministère de l'Économie, de l'Innovation et de l'Énergie, cadres normatifs (cdn-contenu.quebec.ca) — nouveaux cadres normatifs — 2026-11-20 (CN PAPDE 2026-2029; CN PSCE 2025-2028 le 2026-11-18; CN ESSOR 2025-2027 v2.0 le 2026-11-16)
 - Québec.ca, appels de projets en recherche et innovation (liste-partielle-aide-financiere/appels-projets-innovation) — 2026-11-23 (4 appels, tous terminés ou dates passées)
+- Finances Québec, Programme d'aide financière à l'investissement (rabais d'électricité) — 2026-11-27 : fermé aux nouvelles demandes depuis le 31 déc. 2023; tarif L seulement, non couvert
 - Services Québec / Emploi-Québec — subventions salariales, formation — à faire
 - CPMT (cpmt.gouv.qc.ca) — appels de projets Productivité-Compétences (FDRCMO) — 2026-11-19 (page « Appels de projets en cours » lisible, mise à jour 2026-10-23; guide Formation aux gestionnaires lu)
 - Revenu Québec, nouvelles — crédits d'impôt, échéances — à faire
@@ -16,7 +17,7 @@ Format : source — ce qu'on y cherche — dernière vérification
 ## Fédéral
 - Budget fédéral 2026 (budget.canada.ca) — mesures fiscales et programmes — 2026-11-11 (PDF lu p. 1-126, 194-204, 419-454)
 - Canada.ca, Emploi et Développement social — Emplois d'été Canada, Stratégie emploi et compétences jeunesse — 2026-11-23 (guide du demandeur EEC 2027)
-- Développement économique Canada pour les régions du Québec (DEC) — initiatives régionales (IA, tarifs) — 2026-11-26 (Est de Montréal lu; Appui ciblé MRC vulnérables, IQR, IRICR, CERI le 2026-11-25; IRID 2026-11-24; IRRT 2026-11-12; IRIA 2026-11-09)
+- Développement économique Canada pour les régions du Québec (DEC) — initiatives régionales (IA, tarifs) — 2026-11-27 (PECN appel de projets lu : OBNL seulement, statut ambigu; Est de Montréal lu le 2026-11-26; Appui ciblé MRC vulnérables, IQR, IRICR, CERI le 2026-11-25; IRID 2026-11-24; IRRT 2026-11-12; IRIA 2026-11-09)
 - CanExport PME (deleguescommerciaux.gc.ca) — périodes de réception — 2026-11-19 (fermé, réouverture non annoncée)
 - BDC, Exportation et développement Canada — programmes PME — à faire
 
@@ -32,6 +33,7 @@ Format : source — ce qu'on y cherche — dernière vérification
 - Révision des outils d'aide aux entreprises annoncée le 9 nov. 2026 (nouveau gouvernement) : surveiller les changements à ESSOR, PACTE, FDE.
 
 ## Couverts
+- Page pilier « Aides de DEC pour les PME » (/aides-dec-pme-quebec/) — 2026-11-27 (à mettre à jour à chaque nouvel article DEC)
 - Appui au développement économique de l'Est de Montréal (DEC) — article 2026-11-26 (appel innovation sociale fermé depuis le 29 nov. 2024)
 - Appui ciblé de DEC aux MRC économiquement vulnérables (8 territoires) — article 2026-11-25
 - IRICR (DEC, construction résidentielle) — vérifié 2026-11-25, n'accepte plus les demandes

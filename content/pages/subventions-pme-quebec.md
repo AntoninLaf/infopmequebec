@@ -5,7 +5,7 @@ description: "Guide des subventions, prêts et garanties offerts aux PME du Qué
 
 Ce guide réunit les principaux programmes d'aide financière que les PME du Québec peuvent demander en ce moment, selon les articles d'InfoPME Québec. Pour chaque programme, il indique la forme d'aide, le montant maximal, à qui il s'adresse et l'échéance à surveiller. Les détails et les sources officielles se trouvent dans l'article lié.
 
-*Mis à jour le 26 novembre 2026. Les montants et les dates proviennent des articles liés, vérifiés aux sources officielles à la date indiquée dans chacun.*
+*Mis à jour le 27 novembre 2026. Les montants et les dates proviennent des articles liés, vérifiés aux sources officielles à la date indiquée dans chacun.*
 
 ## Les dates limites à ne pas manquer
 
@@ -54,6 +54,8 @@ Plusieurs programmes québécois acceptent les demandes en continu, mais leur ca
 **Vous voulez développer des marchés hors Québec?** Le [PSCE](/psce-subvention-exportation-pme-quebec-60000/) subventionne salons, représentant commercial à l'étranger et certifications, mais seulement pendant des périodes de dépôt de deux semaines : la prochaine est prévue au printemps 2027.
 
 **Vous investissez dans de l'équipement ou une hausse de production?** Voyez [ESSOR volet 2](/essor-volet-2-projets-investissement-pme-pret-garantie/) pour les projets d'au moins 100 000 $, et, si vous êtes dans une MRC ciblée, [DÉPART](/programme-depart-subvention-pme-regions-125000/). Dans huit territoires jugés économiquement vulnérables par DEC, l'[appui ciblé de DEC](/dec-mrc-economiquement-vulnerables-aide-pme/) finance aussi des projets non innovants (première transformation, hébergement touristique, commerces essentiels). Dans l'Est de Montréal, l'[appui de DEC à l'Est de Montréal](/dec-est-de-montreal-aide-pme-50-pourcent/) finance généralement jusqu'à 50 % des coûts autorisés, sans intérêt. Côté fiscal, le [budget fédéral 2026](/budget-federal-2026-pme-megadeduction-productivite/) propose la déduction immédiate des biens admissibles acquis à compter du 15 septembre 2026 (mesure encore à adopter par une loi).
+
+**Vous comparez les programmes fédéraux?** Notre [guide des aides de DEC pour les PME](/aides-dec-pme-quebec/) compare les cinq programmes de Développement économique Canada ouverts aux PME : IRRT, IRIA, IRID, MRC vulnérables et Est de Montréal.
 
 **Vous visez des contrats de la défense?** L'[IRID de DEC](/irid-dec-defense-pme-quebec-contribution-remboursable/) finance jusqu'à 75 % des coûts d'un projet (contribution remboursable), à condition de démontrer qu'il répond à un besoin des Forces armées canadiennes, de l'OTAN ou d'un pays allié.
 
